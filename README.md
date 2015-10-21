@@ -3,7 +3,6 @@
 
 ###D3.js
 
-Alt-H1
 
 **D3.js** is a JavaScript library which helps make your data come to life using HTML, CSS, and SVG.  It is the **D3** gives you more power to manipulate the data without **tying yourself to a framework.**
 
