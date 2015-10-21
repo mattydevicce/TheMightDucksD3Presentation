@@ -1,0 +1,24 @@
+{
+  "name": "mighty-ducks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattydevicce/TheMightDucksD3Presentation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattydevicce/TheMightDucksD3Presentation/issues"
+  },
+  "homepage": "https://github.com/mattydevicce/TheMightDucksD3Presentation#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "socket.io": "^1.3.7"
+  }
+}
