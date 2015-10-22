@@ -4,7 +4,7 @@
 
 ======
 
-**D3.js** is a JavaScript library which helps make your data come to life using HTML, CSS, and SVG. **D3** gives you more power to manipulate the data without **tying yourself to a framework.** It has the power of binding arbitrary data to the DOM and then transform it.
+**D3.js** is a JavaScript library which helps make your data come to life using HTML, CSS, and SVG. **D3** gives you more power to manipulate the data without **tying yourself to a framework.**  It allows you to bind arbitrary data to a Document Object Model (DOM), and then apply data-driven transformations to the document.
 
 ####Just add thist line to your head tag
 ```html
