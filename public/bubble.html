@@ -89,17 +89,7 @@
       .attr('opacity', '0.25')
       .attr('id', function(d,i){return 'circle'+i})
       .attr('class', 'circle');
-      // .on('click', function(e){
-      //   console.log(e)
-      //   console.log(e.target)
-      //   svg.append('text')
-      //   .html(function(){return 'NAME:'+ (e.name)+ '<br>' + ' district:'+ e.geo_dist + ' \n' + ' description:'+ e.projdesc + ' \n' + ' awarded:'+ e.award })
-      //   .attr("text-anchor", 'left')
-      //   .attr("color", "black")
-      //   .style('size', '.5em')
-      // });
-
-
+      
       d3.selectAll('.circle').on('click', function(e){
         console.log(e)
         svg.selectAll('text').remove()
@@ -109,16 +99,6 @@
         .attr("color", "black")
         .style('size', '.5em')
       })
-      //
-      //
-      // svg.select("svg #clickone").on('click', function(){
-      //   svg.select('node')
-      //   .duration(2500)
-      //   .transition()
-      //   .text(function(d){return d.name})
-      //   .attr("text-anchor", 'middle')
-      //   .attr("color", "black");
-      // });
 
     });
   </script>
