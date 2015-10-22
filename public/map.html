@@ -14,6 +14,10 @@
       width:100%;
       height:100%;
     }
+    button {
+      font-size: 1em;
+    }
+
   </style>
 </head>
 <body>
@@ -1228,26 +1232,22 @@
       console.log('SI', statenIsland.numAwards, statenIsland.awardsSum )
       console.log('BX', bronx.numAwards, bronx.awardsSum )
 
-
       var boroughMaps = d3.selectAll(".borough").data(boroughs)
 
       var awardsCount = function(){
-        boroughMaps.attr("fill", function(d){ return "rgb(100,0,"+(255-d3.round(d.numAwards*2))+")"})
+        boroughMaps.transition().attr("fill", function(d){ return "rgb(100,0,"+(255-d3.round(d.numAwards*2))+")"})
       }
-
       d3.select("#show-awards").on('click', awardsCount )
 
 
       var awardsSum = function(){
-        boroughMaps.attr("fill", function(d){ return "rgb(0,"+(255-d3.round(d.awardsSum/3530000))+","+(255-d3.round(d.awardsSum/3530000))+")"})
+        boroughMaps.transition().attr("fill", function(d){ return "rgb(0,"+(255-d3.round(d.awardsSum/3530000))+","+(255-d3.round(d.awardsSum/3530000))+")"})
       }
-
       d3.select("#show-sums").on('click', awardsSum )
 
       var perStudent = function(){
-        boroughMaps.attr("fill", function(d){ return "rgb("+(255-d3.round(d.awardsSum/d.students/16))+",0,"+(255-d3.round(d.awardsSum/d.students/16))+")"})
+        boroughMaps.transition().attr("fill", function(d){ return "rgb("+(255-d3.round(d.awardsSum/d.students/16))+",0,"+(255-d3.round(d.awardsSum/d.students/16))+")"})
       }
-
       d3.select("#show-per-student").on('click', perStudent )
 
         // tried to append per-boro titles, they always display in relation to the viewport
