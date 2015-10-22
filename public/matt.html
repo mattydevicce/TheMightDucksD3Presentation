@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+</head>
+<body>
+<h2>Welcome to the live data shop</h2>
+<h4>Please input your birthday month</h4>
+
+<select id="month-list">
+  <option value="0">January</option>
+  <option value="1">February</option>
+  <option value="2">March</option>
+  <option value="3">April</option>
+  <option value="4">May</option>
+  <option value="5">June</option>
+  <option value="6">July</option>
+  <option value="7">August</option>
+  <option value="8">September</option>
+  <option value="9">October</option>
+  <option value="10">November</option>
+  <option value="11">December</option>
+</select>
+<button id="submit-month">Submit</button>
+
+
+
+<script src="/socket.io/socket.io.js"></script>
+<script type="text/javascript">
+console.log('jQuery fire')
+var socket = io()
+var birthday_months = [10,10,10,10,10,10,10,10,10,10,10,10]
+var body = $('body')
+socket.on('connection', function(data) {
+	birthday_months = data.data
+})
+
+socket.on('updated-months', function(data) {
+	birthday_months[data.month] += 1
+	console.log('updated month')
+	console.log(birthday_months)
+})
+
+$('#submit-month').on('click', function(e) {
+	console.log($('#month-list').val())
+	socket.emit('incomming-month', {month: $('#month-list').val()})
+	svg.selectAll('rect').remove()
+	svg.selectAll('rect').data(birthday_months)
+	.enter().append('rect')
+	  .style({'fill': '#3c763d', 'stroke': '#d6e9c6', 'stroke-width': '5'})
+	  .attr('width', barWidth)
+	  .attr('height', function (data) {
+	      return data*2;
+	  })
+	  .attr('x', function (data, i) {
+	      return i * (barWidth + barOffset) + 15;
+	  })
+	  .attr('y', function (data) {
+	      return (height - data*2) - 20;
+	  });
+})
+
+var height=100,
+    width=400,
+    barWidth=5,
+    barOffset=15,
+    padding=15;
+
+var svg = d3.select("body")
+          .append("svg")
+          .attr("width", width)
+          .attr("height", height)
+.style('background','white')
+
+svg.selectAll('rect').data(birthday_months)
+	.enter().append('rect')
+	  .style({'fill': '#3c763d', 'stroke': '#d6e9c6', 'stroke-width': '5'})
+	  .attr('width', barWidth)
+	  .attr('height', function (data) {
+	      return data*2;
+	  })
+	  .attr('x', function (data, i) {
+	      return i * (barWidth + barOffset) + 15;
+	  })
+	  .attr('y', function (data) {
+	      return (height - data*2) - 20;
+	  });
+
+  
+var xScale = d3.scale.linear()
+             .domain([0,12])
+             .range([15,240]);
+
+var xAxis = d3.svg.axis()
+            .scale(xScale)
+            .orient("bottom");
+
+svg.append("g")
+  .attr("class", "axis")
+  .attr("transform", "translate(0," + (height - padding) + ")")
+  .call(xAxis)
+
+
+</script>
+
+</body>
+</html>
