@@ -90,7 +90,6 @@
 
         xScale.domain(data.map(function(d){ return d.key; }));
 
-
         // adding labels to top of chart
         svg.append("g")
             .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
@@ -101,7 +100,8 @@
             .attr("class", "textlabel")
             .attr("x", function(d){ return xScale(d.key) + (xScale.rangeBand()/2); })
             .attr("y", function(d){ return yScale(d.values) - 3; })
-            .text(function(d){ return d3.format("$,")(d.values);});
+            .text(function(d){ return d3.format("$,")(d3.round(d.values));});
+
 
         //adding bars to chart
         svg.append("g")
