@@ -1,0 +1,6548 @@
+[
+  {
+  "buildingid" : "null",
+  "consttype" : "null",
+  "boro" : "New York",
+  "geo_dist" : "null",
+  "name" : "New York",
+  "projdesc" : "null",
+  "award" : "null",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "null",
+    "latitude" : "null",
+    "human_address" : "null",
+  },
+  "children" : [
+    {
+      "buildingid" : "null",
+      "consttype" : "null",
+      "boro" : "Q",
+      "geo_dist" : "null",
+      "name" : "Queens",
+      "projdesc" : "null",
+      "award" : "null",
+      "parent" : "New York",
+      "location_1" : {
+        "needs_recoding" : false,
+        "longitude" : "null",
+        "latitude" : "null",
+        "human_address" : "null"
+      }
+    }, {
+      "buildingid" : "null",
+      "consttype" : "null",
+      "boro" : "K",
+      "geo_dist" : "null",
+      "name" : "Brooklyn",
+      "projdesc" : "null",
+      "award" : "null",
+      "parent" : "New York",
+      "location_1" : {
+        "needs_recoding" : false,
+        "longitude" : "null",
+        "latitude" : "null",
+        "human_address" : "null"
+      }
+    }, {
+      "buildingid" : "null",
+      "consttype" : "null",
+      "boro" : "M",
+      "geo_dist" : "null",
+      "name" : "Manhattan",
+      "projdesc" : "null",
+      "award" : "null",
+      "parent" : "New York",
+      "location_1" : {
+        "needs_recoding" : false,
+        "longitude" : "null",
+        "latitude" : "null",
+        "human_address" : "null"
+      }
+    }, {
+      "buildingid" : "null",
+      "consttype" : "null",
+      "boro" : "R",
+      "geo_dist" : "null",
+      "name" : "Staten Island",
+      "projdesc" : "null",
+      "award" : "null",
+      "parent" : "New York",
+      "location_1" : {
+        "needs_recoding" : false,
+        "longitude" : "null",
+        "latitude" : "null",
+        "human_address" : "null"
+      }
+    }, {
+      "buildingid" : "null",
+      "consttype" : "null",
+      "boro" : "X",
+      "geo_dist" : "null",
+      "name" : "Bronx",
+      "projdesc" : "null",
+      "award" : "null",
+      "parent" : "New York",
+      "location_1" : {
+        "needs_recoding" : false,
+        "longitude" : "null",
+        "latitude" : "null",
+        "human_address" : "null"
+      }
+    }
+  ]
+}
+, {
+  "buildingid" : "K610",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "14",
+  "name" : "AUTOMOTIVE TRADES VOC HS",
+  "projdesc" : "FIRE ALARM",
+  "award" : "402500",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95311779468979",
+    "latitude" : "40.72215011764413",
+    "human_address" : "{\"address\":\"50 BEDFORD AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11222\"}"
+  }
+}
+, {
+  "buildingid" : "K554",
+  "consttype" : "CAP",
+  "boro" : "K",
+  "geo_dist" : "78",
+  "name" : "All City Leadership School",
+  "projdesc" : "Lease",
+  "award" : "29299000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91312770264774",
+    "latitude" : "40.69743439114146",
+    "human_address" : "{\"address\":\"321 Palmetto St\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11237\"}"
+  }
+}
+, {
+  "buildingid" : "X095",
+  "consttype" : "CAP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "Ampark Neighborhood School",
+  "projdesc" : "Addition",
+  "award" : "48624000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.89107454904517",
+    "latitude" : "40.883162755141505",
+    "human_address" : "{\"address\":\"3961 Hillman Ave\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10463\"}"
+  }
+}
+, {
+  "buildingid" : "M488",
+  "consttype" : "CAP",
+  "boro" : "M",
+  "geo_dist" : "78",
+  "name" : "Art and Design HS",
+  "projdesc" : "New",
+  "award" : "0",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.96809182217982",
+    "latitude" : "40.758630224005685",
+    "human_address" : "{\"address\":\"231 249 E 56th St\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10022\"}"
+  }
+}
+, {
+  "buildingid" : "Q410",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "27",
+  "name" : "BEACH CHANNEL HS",
+  "projdesc" : "SWB-HAZARDOUS MASONRY/PARAPET/ROOF/EXTERIOR DOORS",
+  "award" : "23480000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.85077700055808",
+    "latitude" : "40.57657830564432",
+    "human_address" : "{\"address\":\"100 00 BEACH CHANNEL DRIVE\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11694\"}"
+  }
+}
+, {
+  "buildingid" : "M971",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "BEEKMAN SCHOOL (PROJ#1)PS@M971",
+  "projdesc" : "BEEKMAN INTERIOR FIT-OUT WORK",
+  "award" : "24288902.98",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.00596371272646",
+    "latitude" : "40.71174136432668",
+    "human_address" : "{\"address\":\"12 SPRUCE ST\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+  }
+}
+, {
+  "buildingid" : "Q169",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "25",
+  "name" : "BELL ACADEMY@ Q169",
+  "projdesc" : "SCIENCE LAB UPGRADE",
+  "award" : "342000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.78226733686807",
+    "latitude" : "40.78070133439911",
+    "human_address" : "{\"address\":\"18 25 212 STREET\",\"city\":\"BAYSIDE\",\"state\":\"NY\",\"zip\":\"11360\"}"
+  }
+}
+, {
+  "buildingid" : "M136",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "5",
+  "name" : "BREAD AND ROSES HS",
+  "projdesc" : "EXTERIOR MASONRY/ROOFS/SECURITY LIGHTING/PARAPETS",
+  "award" : "7920000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94777715277199",
+    "latitude" : "40.81720320936426",
+    "human_address" : "{\"address\":\"6 EDGECOMBE AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10030\"}"
+  }
+}
+, {
+  "buildingid" : "K057",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "16",
+  "name" : "BRKLYN ACAD. OF GLOBAL FINANCE",
+  "projdesc" : "NEW SCIENCE LAB SUITE",
+  "award" : "963000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93365273330902",
+    "latitude" : "40.691184878420714",
+    "human_address" : "{\"address\":\"125 STUYVESANT AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11221\"}"
+  }
+}
+, {
+  "buildingid" : "M282",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "BROADWAY EDUCATION CAMPUS",
+  "projdesc" : "LEASE (1ST & 2ND FLOOR)",
+  "award" : "20500000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.01331914476191",
+    "latitude" : "40.70549393646826",
+    "human_address" : "{\"address\":\"26 BROADWAY\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10004\"}"
+  }
+}
+, {
+  "buildingid" : "X420",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "12",
+  "name" : "BRONX COALITION HS (@X420)",
+  "projdesc" : "FY10 RESO A SCHOOL BASED HEALTH CLINIC",
+  "award" : "648000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.87881047207371",
+    "latitude" : "40.831280981918596",
+    "human_address" : "{\"address\":\"1300 BOYNTON AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10472\"}"
+  }
+}
+, {
+  "buildingid" : "X475",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "BRONX ENGINEERING & TECH ACAD.",
+  "projdesc" : "PAVED AREAS-BLACKTOP",
+  "award" : "1270000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91213621128965",
+    "latitude" : "40.877210772673564",
+    "human_address" : "{\"address\":\"99 TERRACE VIEW AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10463\"}"
+  }
+}
+, {
+  "buildingid" : "X445",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "BRONX HS OF SCIENCE",
+  "projdesc" : "SCIENCE LAB UPGRADE",
+  "award" : "1494999",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88689697376654",
+    "latitude" : "40.875578988056745",
+    "human_address" : "{\"address\":\"75 205 STREET\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10468\"}"
+  }
+}
+, {
+  "buildingid" : "K117",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "13",
+  "name" : "BROOKLYN COMM",
+  "projdesc" : "FY10 RESO A OUT TRACK & MIXED USE",
+  "award" : "1061000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95894653911148",
+    "latitude" : "40.69261081871296",
+    "human_address" : "{\"address\":\"300 WILLOUGHBY AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11205\"}"
+  }
+}
+, {
+  "buildingid" : "K515",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "18",
+  "name" : "BROOKLYN THEATRE ARTS HS",
+  "projdesc" : "FY11 RESO A AUDITORIUM UPGRADE",
+  "award" : "961142",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91781691770764",
+    "latitude" : "40.63268510415105",
+    "human_address" : "{\"address\":\"6565 FLATLANDS AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11236\"}"
+  }
+}
+, {
+  "buildingid" : "K480",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "32",
+  "name" : "BUSHWICK HS OF SOCIAL JUSTICE",
+  "projdesc" : "FY10 RESO A GYM UPGRADE",
+  "award" : "539000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91084445466608",
+    "latitude" : "40.69697946567666",
+    "human_address" : "{\"address\":\"400 IRVING AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11237\"}"
+  }
+}
+, {
+  "buildingid" : "K865",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "32",
+  "name" : "BUSHWICK LEADERS HS ACAD @K865",
+  "projdesc" : "REPAIR OF SAGGING FLOORS",
+  "award" : "3338000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.92824173943163",
+    "latitude" : "40.69513370850302",
+    "human_address" : "{\"address\":\"797 BUSHWICK AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11221\"}"
+  }
+}
+, {
+  "buildingid" : "M282",
+  "consttype" : "CAP",
+  "boro" : "M",
+  "geo_dist" : "78",
+  "name" : "Broadway Education Campus (1st",
+  "projdesc" : "Lease",
+  "award" : "20500000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.99674463976191",
+    "latitude" : "40.71350689574933",
+    "human_address" : "{\"address\":\"26 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10002\"}"
+  }
+}
+, {
+  "buildingid" : "Q490",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "29",
+  "name" : "CAMPUS MAGNET-ENTREPRENEURSHIP",
+  "projdesc" : "EXTERIOR DOORS",
+  "award" : "84995.05",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.73568329125084",
+    "latitude" : "40.694293339066405",
+    "human_address" : "{\"address\":\"207 01 116TH AVENUE\",\"city\":\"CAMBRIA HEIGHTS\",\"state\":\"NY\",\"zip\":\"11411\"}"
+  }
+}
+, {
+  "buildingid" : "K500",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "18",
+  "name" : "CANARSIE H.S.",
+  "projdesc" : "LL 41/16 COMPLIANCE",
+  "award" : "117726.54",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.89750860330521",
+    "latitude" : "40.64078389170152",
+    "human_address" : "{\"address\":\"1600 ROCKAWAY PKWY\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11236\"}"
+  }
+}
+, {
+  "buildingid" : "M501",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "5",
+  "name" : "CHOIR ACADEMY OF HARLEM",
+  "projdesc" : "ROOFS/PARAPETS",
+  "award" : "2871000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93946681971579",
+    "latitude" : "40.80736014272708",
+    "human_address" : "{\"address\":\"2005 MADISON AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10035\"}"
+  }
+}
+, {
+  "buildingid" : "Q485",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "24",
+  "name" : "CLEVELAND HS",
+  "projdesc" : "RETAINING WALLS/EXTERIOR STEPS",
+  "award" : "5817000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88334858436963",
+    "latitude" : "40.70122489161548",
+    "human_address" : "{\"address\":\"21 27 HIMROD STREET\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11385\"}"
+  }
+}
+, {
+  "buildingid" : "X440",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "CLINTON HS",
+  "projdesc" : "WINDOWS/AREAWAY/PARAPETS/TOWER ROOFS",
+  "award" : "7290000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88672516295283",
+    "latitude" : "40.88178360066122",
+    "human_address" : "{\"address\":\"100 MOSHOLU PKWY\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10468\"}"
+  }
+}
+, {
+  "buildingid" : "M646",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "CO-OP TECHNICAL H.S.",
+  "projdesc" : "PARAPETS/WINDOWS/ROOFS/EXT MASONRY",
+  "award" : "6292000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94612486053185",
+    "latitude" : "40.78386913950879",
+    "human_address" : "{\"address\":\"321 96 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10128\"}"
+  }
+}
+, {
+  "buildingid" : "K804",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "15",
+  "name" : "COBBLE HILL H.S.",
+  "projdesc" : "FLOOD ELMNTN/EXT MASONRY",
+  "award" : "2983382",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.991150069287",
+    "latitude" : "40.684609118080985",
+    "human_address" : "{\"address\":\"347 BALTIC STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}"
+  }
+}
+, {
+  "buildingid" : "M814",
+  "consttype" : "CAP",
+  "boro" : "M",
+  "geo_dist" : "78",
+  "name" : "Community Health Academy (CLOT",
+  "projdesc" : "New",
+  "award" : "43728000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94178600222767",
+    "latitude" : "40.83354081707594",
+    "human_address" : "{\"address\":\"504 158th St\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10032\"}"
+  }
+}
+, {
+  "buildingid" : "Q801",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "30",
+  "name" : "DOE BUREAU OF SUPPLIES",
+  "projdesc" : "ELEVATORS/ELEC SYSTEMS",
+  "award" : "7342000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225",
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"44 36 VERNON BLVD\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11101\"}"
+  }
+}
+, {
+  "buildingid" : "Q297",
+  "consttype" : "CAP",
+  "boro" : "Q",
+  "geo_dist" : "30",
+  "name" : "Demolition for IS 297",
+  "projdesc" : "Demo",
+  "award" : "746444",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88361254528269",
+    "latitude" : "40.75163073936716",
+    "human_address" : "{\"address\":\"74 03 34th Ave\",\"city\":\"Jackson Heights\",\"state\":\"NY\",\"zip\":\"11372\"}"
+  }
+}
+, {
+  "buildingid" : "M868",
+  "consttype" : "CAP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "Demolition for IS/HS 868",
+  "projdesc" : "Demo",
+  "award" : "2182222",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.99224802961538",
+    "latitude" : "40.73631370241236",
+    "human_address" : "{\"address\":\"10 15th St\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10003\"}"
+  }
+}
+, {
+  "buildingid" : "Q290",
+  "consttype" : "CAP",
+  "boro" : "Q",
+  "geo_dist" : "24",
+  "name" : "Demolition for PS 290",
+  "projdesc" : "Demo",
+  "award" : "3370000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88334858436963",
+    "latitude" : "40.70122489161548",
+    "human_address" : "{\"address\":\"55 20 Metropolitan Ave\",\"city\":\"Ridgewood\",\"state\":\"NY\",\"zip\":\"11385\"}"
+  }
+}
+, {
+  "buildingid" : "K615",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "19",
+  "name" : "E NY HS OF TRANSIT TECHNOLOGY",
+  "projdesc" : "FY11 RESO A GYMNASIUM UPGRADE",
+  "award" : "419000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.876114686314",
+    "latitude" : "40.678266696104096",
+    "human_address" : "{\"address\":\"1 WELLS STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11208\"}"
+  }
+}
+, {
+  "buildingid" : "M064",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "1",
+  "name" : "EARTH SCHOOL (@M064)",
+  "projdesc" : "FY09 RESO A GREENROOF",
+  "award" : "769000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.98162129932635",
+    "latitude" : "40.72444152208924",
+    "human_address" : "{\"address\":\"600 6 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10009\"}"
+  }
+}
+, {
+  "buildingid" : "M855",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "ELEANOR ROOSEVELT HS",
+  "projdesc" : "IP SURVEILLANCE CAMERAS",
+  "award" : "888000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.02500811267907",
+    "latitude" : "40.62997664645282",
+    "human_address" : "{\"address\":\"411 76TH STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10001\"}"
+  }
+}
+, {
+  "buildingid" : "X426",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "11",
+  "name" : "EVANDER CHILDS AF",
+  "projdesc" : "ATHLETIC FIELD LIGHTING",
+  "award" : "797000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.8621066953495",
+    "latitude" : "40.875978648353474",
+    "human_address" : "{\"address\":\"800 GUNHILL ROAD\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10467\"}"
+  }
+}
+, {
+  "buildingid" : "X425",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "11",
+  "name" : "EVANDER CHILDS H.S.",
+  "projdesc" : "PA SYSTEM/ELECTRICAL UPGRADE",
+  "award" : "850000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.8621066953495",
+    "latitude" : "40.875978648353474",
+    "human_address" : "{\"address\":\"800 GUN HILL ROAD\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10467\"}"
+  }
+}
+, {
+  "buildingid" : "M600",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "FASHION INDUSTRIES VOC HS-M",
+  "projdesc" : "FY10 RESO A AUDITORIUM UPGRADE",
+  "award" : "734100",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.99588924404328",
+    "latitude" : "40.74508837330147",
+    "human_address" : "{\"address\":\"225 24 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10011\"}"
+  }
+}
+, {
+  "buildingid" : "M600",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "FASHION INDUSTRIES VOC HS-M",
+  "projdesc" : "SAFETY/PAVEMENT/CONTAINER/ MASONRY/ROOF",
+  "award" : "5993000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.99588924404328",
+    "latitude" : "40.74508837330147",
+    "human_address" : "{\"address\":\"225 24 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10011\"}"
+  }
+}
+, {
+  "buildingid" : "Q440",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "FOREST HILLS HS",
+  "projdesc" : "CONCRETE PAVED AREAS",
+  "award" : "3463000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.84628429608335",
+    "latitude" : "40.720707263029794",
+    "human_address" : "{\"address\":\"67 01 110 STREET\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11375\"}"
+  }
+}
+, {
+  "buildingid" : "Q440",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "FOREST HILLS HS",
+  "projdesc" : "FY11 RESO A LIBRARY UPGRADE",
+  "award" : "421000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.84628429608335",
+    "latitude" : "40.720707263029794",
+    "human_address" : "{\"address\":\"67 01 110 STREET\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11375\"}"
+  }
+}
+, {
+  "buildingid" : "K033",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "14",
+  "name" : "FOUNDATIONS ACADEMY",
+  "projdesc" : "SCIENCE LAB UPGRADE",
+  "award" : "1165500",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94668415925653",
+    "latitude" : "40.697149542940295",
+    "human_address" : "{\"address\":\"70 TOMPKINS AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11206\"}"
+  }
+}
+, {
+  "buildingid" : "Q430",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "26",
+  "name" : "FRANCIS LEWIS H.S.",
+  "projdesc" : "FLOOD ELIMINATION/FENCING/PAVED AREA - CONCRETE",
+  "award" : "2579000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.79462153515567",
+    "latitude" : "40.73987184371066",
+    "human_address" : "{\"address\":\"58 20 UTOPIA PKWY\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11365\"}"
+  }
+}
+, {
+  "buildingid" : "K505",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "20",
+  "name" : "FRANKLIN D. ROOSEVELT H.S.",
+  "projdesc" : "FY07 RESO A ASTRO TURF FOOTBALL FIELD",
+  "award" : "2470527",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9817265392885",
+    "latitude" : "40.62052678025147",
+    "human_address" : "{\"address\":\"5800 20 AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11204\"}"
+  }
+}
+, {
+  "buildingid" : "K175",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "23",
+  "name" : "FREDERICK DOUGLAS ACADEMY",
+  "projdesc" : "PARAPETS/EXT MASONRY/FLOOD ELMNTN",
+  "award" : "2675000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91171337843976",
+    "latitude" : "40.66578774851303",
+    "human_address" : "{\"address\":\"226 BRISTOL STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11212\"}"
+  }
+}
+, {
+  "buildingid" : "K490",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "20",
+  "name" : "FT HAMILTON HS",
+  "projdesc" : "HEATING PLANT UPGRADE/CLIMATE CTRL",
+  "award" : "8296000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.03991574863338",
+    "latitude" : "40.627991412441524",
+    "human_address" : "{\"address\":\"8301 SHORE ROAD\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11209\"}"
+  }
+}
+, {
+  "buildingid" : "M465",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "6",
+  "name" : "GEORGE WASHINGTON H.S.",
+  "projdesc" : "FLOOD ELIMINATION/PARAPETS",
+  "award" : "12686000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.92672451121956",
+    "latitude" : "40.856389753646916",
+    "human_address" : "{\"address\":\"549 AUDOBON AVENUE\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10040\"}"
+  }
+}
+, {
+  "buildingid" : "M460",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "GRAMERCY ARTS HS - M",
+  "projdesc" : "SCIENCE DEMO ROOM UPGRADE",
+  "award" : "1059950",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.98760494227764",
+    "latitude" : "40.735537114027146",
+    "human_address" : "{\"address\":\"40 IRVING PLACE\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10003\"}"
+  }
+}
+, {
+  "buildingid" : "M625",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "GRAPHIC COMMUNICATION ARTS",
+  "projdesc" : "WINDOWS/EXTERIOR MASONRY/PLAZA DECK",
+  "award" : "12647000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9905041730044",
+    "latitude" : "40.76336102095483",
+    "human_address" : "{\"address\":\"439 49 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10019\"}"
+  }
+}
+, {
+  "buildingid" : "M465",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "6",
+  "name" : "HEALTH CAREERS & SCIENCE",
+  "projdesc" : "FY11 RESO A ELECTRICAL SYSTEM",
+  "award" : "516000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.92672451121956",
+    "latitude" : "40.856389753646916",
+    "human_address" : "{\"address\":\"549 AUDOBON AVENUE\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10040\"}"
+  }
+}
+, {
+  "buildingid" : "Q585",
+  "consttype" : "CAP",
+  "boro" : "Q",
+  "geo_dist" : "78",
+  "name" : "HS 585",
+  "projdesc" : "New",
+  "award" : "70250000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.87835115518163",
+    "latitude" : "40.73871040256307",
+    "human_address" : "{\"address\":\"54 40 74th St\",\"city\":\"Elmhurst\",\"state\":\"NY\",\"zip\":\"11373\"}"
+  }
+}
+, {
+  "buildingid" : "X783",
+  "consttype" : "CAP",
+  "boro" : "X",
+  "geo_dist" : "78",
+  "name" : "HS 783",
+  "projdesc" : "New",
+  "award" : "0",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.92662867570321",
+    "latitude" : "40.816146910599706",
+    "human_address" : "{\"address\":\"201 144th St\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10451\"}"
+  }
+}
+, {
+  "buildingid" : "Q456",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "24",
+  "name" : "HS FOR ARTS & BUS (@ Q456)",
+  "projdesc" : "WINDOWS",
+  "award" : "837000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.85304068857687",
+    "latitude" : "40.749678220373596",
+    "human_address" : "{\"address\":\"105 25 HORACE HARDING EXPRESSWAY\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11368\"}"
+  }
+}
+, {
+  "buildingid" : "K465",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "17",
+  "name" : "HS FOR SERVICE & LEARNING",
+  "projdesc" : "FIRE ALARM SYSTEM",
+  "award" : "2625000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95845755993555",
+    "latitude" : "40.649532936565414",
+    "human_address" : "{\"address\":\"911 FLATBUSH AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11226\"}"
+  }
+}
+, {
+  "buildingid" : "Q490",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "29",
+  "name" : "HUMANITIES & ARTS",
+  "projdesc" : "FY08 RESO A TECHNOLOGY",
+  "award" : "17555.4",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.73568329125084",
+    "latitude" : "40.694293339066405",
+    "human_address" : "{\"address\":\"207 01 116TH AVENUE\",\"city\":\"CAMBRIA HEIGHTS\",\"state\":\"NY\",\"zip\":\"11411\"}"
+  }
+}
+, {
+  "buildingid" : "M908",
+  "consttype" : "CAP",
+  "boro" : "M",
+  "geo_dist" : "5",
+  "name" : "Harlem Promise Academy",
+  "projdesc" : "New",
+  "award" : "60000000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94715683161196",
+    "latitude" : "40.81182512837363",
+    "human_address" : "{\"address\":\"245 129th St\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10027\"}"
+  }
+}
+, {
+  "buildingid" : "M280",
+  "consttype" : "CAP",
+  "boro" : "M",
+  "geo_dist" : "5",
+  "name" : "Harlem Village Academy",
+  "projdesc" : "New",
+  "award" : "36336432.4",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94391077367071",
+    "latitude" : "40.80627609017035",
+    "human_address" : "{\"address\":\"35 124th St\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10027\"}"
+  }
+}
+, {
+  "buildingid" : "M010",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "5",
+  "name" : "I.S. 10",
+  "projdesc" : "FLOOD ELIMINATION",
+  "award" : "5393000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93690714053237",
+    "latitude" : "40.82438364705368",
+    "human_address" : "{\"address\":\"2581 7TH AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10039\"}"
+  }
+}
+, {
+  "buildingid" : "K111",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "32",
+  "name" : "I.S. 111",
+  "projdesc" : "LL 41/16 COMPLIANCE",
+  "award" : "370000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9274722005684",
+    "latitude" : "40.70073228077929",
+    "human_address" : "{\"address\":\"35 STARR STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11221\"}"
+  }
+}
+, {
+  "buildingid" : "X115",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "I.S. 115 (@X115)",
+  "projdesc" : "EXT MASONRY/ROOFS/REINFORCING SUPPORT/PARAPETS",
+  "award" : "3833000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9001023348563",
+    "latitude" : "40.859718306516946",
+    "human_address" : "{\"address\":\"120 184 STREET\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10468\"}"
+  }
+}
+, {
+  "buildingid" : "K117",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "13",
+  "name" : "I.S. 117",
+  "projdesc" : "ELECTRICAL SYSTEMS",
+  "award" : "990000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95894653911148",
+    "latitude" : "40.69261081871296",
+    "human_address" : "{\"address\":\"300 WILLOUGHBY AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11205\"}"
+  }
+}
+, {
+  "buildingid" : "Q125",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "24",
+  "name" : "I.S. 125",
+  "projdesc" : "LOW-VOLT ELEC SYSTEMS",
+  "award" : "980000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9048471440804",
+    "latitude" : "40.74519376448069",
+    "human_address" : "{\"address\":\"46 02 47 AVENUE\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11377\"}"
+  }
+}
+, {
+  "buildingid" : "M131",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "I.S. 131",
+  "projdesc" : "LL 41/16 COMPLIANCE",
+  "award" : "139807.64",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.99286250634624",
+    "latitude" : "40.71645702482035",
+    "human_address" : "{\"address\":\"100 HESTER STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10002\"}"
+  }
+}
+, {
+  "buildingid" : "X131",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "8",
+  "name" : "I.S. 131",
+  "projdesc" : "ROOFS/SAFETY SYSTEM/EXT MASONRY/FLOOD ELIMINATION",
+  "award" : "6780000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.85977399112697",
+    "latitude" : "40.82386302071817",
+    "human_address" : "{\"address\":\"885 BOLTON AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10473\"}"
+  }
+}
+, {
+  "buildingid" : "X135",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "11",
+  "name" : "I.S. 135",
+  "projdesc" : "EXT MASONRY/WINDOWS/ROOFS",
+  "award" : "6988000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.86461178363403",
+    "latitude" : "40.86208256356063",
+    "human_address" : "{\"address\":\"2441 WALLACE AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10467\"}"
+  }
+}
+, {
+  "buildingid" : "X137",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "I.S. 137",
+  "projdesc" : "PLANYC BOILER CONVERSION/PLANYC CLIMATE CTRL",
+  "award" : "4680000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.89664962860274",
+    "latitude" : "40.85466127151118",
+    "human_address" : "{\"address\":\"2225 WEBSTER AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10457\"}"
+  }
+}
+, {
+  "buildingid" : "X139",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "7",
+  "name" : "I.S. 139",
+  "projdesc" : "EXT MASONRY/PARAPETS/FLOOD ELMNTN/WINDOWS/ROOFS",
+  "award" : "13447000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91782345430987",
+    "latitude" : "40.81004862442692",
+    "human_address" : "{\"address\":\"345 BROOK AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10454\"}"
+  }
+}
+, {
+  "buildingid" : "K014",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "22",
+  "name" : "I.S. 14",
+  "projdesc" : "PAVED AREA - BLACKTOP",
+  "award" : "659572.05"
+}
+, {
+  "buildingid" : "X142",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "11",
+  "name" : "I.S. 142",
+  "projdesc" : "FY09 RESO A SCIENCE LAB",
+  "award" : "735800",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.84075720750138",
+    "latitude" : "40.88554553526394",
+    "human_address" : "{\"address\":\"3750 BAYCHESTER AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10466\"}"
+  }
+}
+, {
+  "buildingid" : "M143",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "6",
+  "name" : "I.S. 143",
+  "projdesc" : "ROOFS/FLOOD ELMNTN/EXT MASONRY",
+  "award" : "4237000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9320770216135",
+    "latitude" : "40.84941102208005",
+    "human_address" : "{\"address\":\"511 182 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10033\"}"
+  }
+}
+, {
+  "buildingid" : "X144",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "11",
+  "name" : "I.S. 144",
+  "projdesc" : "ROOFS/EXT MASONRY/PARAPETS/FLOOD ELIMINATION",
+  "award" : "4891000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.83609949442072",
+    "latitude" : "40.863858665108886",
+    "human_address" : "{\"address\":\"2545 GUNTHER AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10464\"}"
+  }
+}
+, {
+  "buildingid" : "X151",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "7",
+  "name" : "I.S. 151",
+  "projdesc" : "WINDOWS/EXTERIOR MASONRY",
+  "award" : "3426000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9211309650046",
+    "latitude" : "40.82298359886116",
+    "human_address" : "{\"address\":\"250 156 STREET\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10451\"}"
+  }
+}
+, {
+  "buildingid" : "X158",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "12",
+  "name" : "I.S. 158",
+  "projdesc" : "PLANYC BOILER CONVRSN/PLANYC CLIMATE CTRL",
+  "award" : "3918000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90004072543645",
+    "latitude" : "40.827686311428195",
+    "human_address" : "{\"address\":\"800 HOME STREET\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10456\"}"
+  }
+}
+, {
+  "buildingid" : "X166",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "9",
+  "name" : "I.S. 166",
+  "projdesc" : "PA SYSTEM",
+  "award" : "798000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91779283496383",
+    "latitude" : "40.82872889992432",
+    "human_address" : "{\"address\":\"250 164 STREET\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10456\"}"
+  }
+}
+, {
+  "buildingid" : "K171",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "19",
+  "name" : "I.S. 171/P.S. 7",
+  "projdesc" : "SWB-FACADE/PARAPETS/PAVED AREA-BLACKTOP/FENCING",
+  "award" : "4828290",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.86966791838911",
+    "latitude" : "40.6861530810444",
+    "human_address" : "{\"address\":\"528 RIDGEWOOD AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11208\"}"
+  }
+}
+, {
+  "buildingid" : "X183",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "7",
+  "name" : "I.S. 183",
+  "projdesc" : "PLANYC BOILER/PLANYC CLIMATE CTRL",
+  "award" : "3492000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.92553701094046",
+    "latitude" : "40.813386726364335",
+    "human_address" : "{\"address\":\"339 MORRIS AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10451\"}"
+  }
+}
+, {
+  "buildingid" : "X184",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "7",
+  "name" : "I.S. 184",
+  "projdesc" : "PLANYC BOILER/PLANYC CLIMATE CTRL",
+  "award" : "4910270",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90589968772917",
+    "latitude" : "40.81888494686362",
+    "human_address" : "{\"address\":\"778 FOREST AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10456\"}"
+  }
+}
+, {
+  "buildingid" : "X129",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "12",
+  "name" : "I.S. 191 @X129",
+  "projdesc" : "NEW SCIENCE DEMONSTRATION ROOM",
+  "award" : "438000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.8865507352739",
+    "latitude" : "40.84549455019818",
+    "human_address" : "{\"address\":\"2055 MAPES AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10460\"}"
+  }
+}
+, {
+  "buildingid" : "Q192",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "29",
+  "name" : "I.S. 192",
+  "projdesc" : "CITY COUNCIL REQ - LIGHTING FIXTURES",
+  "award" : "1800000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.75923519834566",
+    "latitude" : "40.69812711747255",
+    "human_address" : "{\"address\":\"109 89 204 STREET\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11412\"}"
+  }
+}
+, {
+  "buildingid" : "X193",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "12",
+  "name" : "I.S. 193",
+  "projdesc" : "PLANYC BOILER/PLANYC CLIMATE CTRL",
+  "award" : "3885000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88973979569231",
+    "latitude" : "40.84359404962676",
+    "human_address" : "{\"address\":\"1919 PROSPECT AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10457\"}"
+  }
+}
+, {
+  "buildingid" : "M195",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "5",
+  "name" : "I.S. 195 (ECF)",
+  "projdesc" : "PAVED AREAS BLACKTOP",
+  "award" : "770000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95739030775974",
+    "latitude" : "40.81937508503853",
+    "human_address" : "{\"address\":\"625 133 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10027\"}"
+  }
+}
+, {
+  "buildingid" : "M195",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "5",
+  "name" : "I.S. 195 (ECF)",
+  "projdesc" : "PLANYC BOILER CONVRSN/PLANYC CLIMATE CTRL",
+  "award" : "3788000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95739030775974",
+    "latitude" : "40.81937508503853",
+    "human_address" : "{\"address\":\"625 133 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10027\"}"
+  }
+}
+, {
+  "buildingid" : "M195",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "5",
+  "name" : "I.S. 195 (ECF)",
+  "projdesc" : "SCIENCE DEMO ROOM UPGRADE",
+  "award" : "469000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95739030775974",
+    "latitude" : "40.81937508503853",
+    "human_address" : "{\"address\":\"625 133 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10027\"}"
+  }
+}
+, {
+  "buildingid" : "K002",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "17",
+  "name" : "I.S. 2",
+  "projdesc" : "SCIENCE DEMO ROOM UPGRADE",
+  "award" : "345000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95158492978685",
+    "latitude" : "40.6561968174429",
+    "human_address" : "{\"address\":\"655 PARKSIDE AVE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11226\"}"
+  }
+}
+, {
+  "buildingid" : "K211",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "18",
+  "name" : "I.S. 211",
+  "projdesc" : "WALK IN FREEZER REPLACEMENT",
+  "award" : "343200",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.89642371322941",
+    "latitude" : "40.64348164485336",
+    "human_address" : "{\"address\":\"1001 100 STREET\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11236\"}"
+  }
+}
+, {
+  "buildingid" : "X116",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "12",
+  "name" : "I.S. 216 (@X116)",
+  "projdesc" : "PLANYC BOILER CONVERSION/PLANYC CLIMATE CONTROL",
+  "award" : "4468000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.89392410102988",
+    "latitude" : "40.822428225918",
+    "human_address" : "{\"address\":\"977 FOX STREET\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10459\"}"
+  }
+}
+, {
+  "buildingid" : "K218",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "19",
+  "name" : "I.S. 218",
+  "projdesc" : "WALK IN FREEZER REPLACEMENT",
+  "award" : "2120000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.8742292684109",
+    "latitude" : "40.67070199017694",
+    "human_address" : "{\"address\":\"370 FOUNTAIN AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11208\"}"
+  }
+}
+, {
+  "buildingid" : "M218",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "6",
+  "name" : "I.S. 218",
+  "projdesc" : "FLOOD ELIMINATION/WINDOWS/ROOFS",
+  "award" : "1867000"
+}
+, {
+  "buildingid" : "X148",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "9",
+  "name" : "I.S. 219 (OLD I.S. 148)",
+  "projdesc" : "RETAINING WALL",
+  "award" : "583000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90440606498304",
+    "latitude" : "40.833636708483105",
+    "human_address" : "{\"address\":\"3630 THIRD AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10456\"}"
+  }
+}
+, {
+  "buildingid" : "X022",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "9",
+  "name" : "I.S. 22",
+  "projdesc" : "FLOOD ELIMINATION/EXT MASONRY/PARAPETS",
+  "award" : "3990000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91408537225458",
+    "latitude" : "40.83322765425807",
+    "human_address" : "{\"address\":\"270 167 STREET\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10456\"}"
+  }
+}
+, {
+  "buildingid" : "X149",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "7",
+  "name" : "I.S. 223 (@X149)",
+  "projdesc" : "FY10 RESO A LIBRARY",
+  "award" : "328000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.92087771305378",
+    "latitude" : "40.814006958025736",
+    "human_address" : "{\"address\":\"360 145 STREET\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10454\"}"
+  }
+}
+, {
+  "buildingid" : "Q226",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "27",
+  "name" : "I.S. 226",
+  "projdesc" : "EXT MASONRY/ROOFS",
+  "award" : "6691000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.81770717164864",
+    "latitude" : "40.67334524268887",
+    "human_address" : "{\"address\":\"121 10 ROCKAWAY BLVD\",\"city\":\"SO OZONE PARK\",\"state\":\"NY\",\"zip\":\"11420\"}"
+  }
+}
+, {
+  "buildingid" : "Q227",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "30",
+  "name" : "I.S. 227",
+  "projdesc" : "CLIMATE CONTROL/HEATING PLANT UPGRADE",
+  "award" : "5294240",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.8723788986672",
+    "latitude" : "40.76341327370369",
+    "human_address" : "{\"address\":\"32 02 JUNCTION BLVD\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11369\"}"
+  }
+}
+, {
+  "buildingid" : "X082",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "9",
+  "name" : "I.S. 232 (OLD 82) @X082",
+  "projdesc" : "ACCESSIBILITY/FIRE ALARM",
+  "award" : "8193000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91609317547116",
+    "latitude" : "40.84901889749711",
+    "human_address" : "{\"address\":\"1700 MACOMBS ROAD\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10453\"}"
+  }
+}
+, {
+  "buildingid" : "R024",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "I.S. 24",
+  "projdesc" : "AUDITORIUM FLOORS",
+  "award" : "77000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.14643932417457",
+    "latitude" : "40.54537484828736",
+    "human_address" : "{\"address\":\"225 CLEVELAND AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10308\"}"
+  }
+}
+, {
+  "buildingid" : "K246",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "17",
+  "name" : "I.S. 246",
+  "projdesc" : "SWB EXT MASONRY/SWB FLOOD/SWB WINDOWS/ROOF/PARAPET",
+  "award" : "4877000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95284496748633",
+    "latitude" : "40.64867994929756",
+    "human_address" : "{\"address\":\"72 VERONICA PLACE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11226\"}"
+  }
+}
+, {
+  "buildingid" : "K252",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "18",
+  "name" : "I.S. 252",
+  "projdesc" : "LL 41/16 COMPLIANCE",
+  "award" : "29175.77",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.92001930874018",
+    "latitude" : "40.658327698451274",
+    "human_address" : "{\"address\":\"1084 LENOX ROAD\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11212\"}"
+  }
+}
+, {
+  "buildingid" : "M118",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "3",
+  "name" : "I.S. 256 (@M118)",
+  "projdesc" : "IP SURVEILLANCE CAMERAS",
+  "award" : "216300",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.97053578315399",
+    "latitude" : "40.79156776872092",
+    "human_address" : "{\"address\":\"154 93 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10025\"}"
+  }
+}
+, {
+  "buildingid" : "M118",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "3",
+  "name" : "I.S. 256 (@M118)",
+  "projdesc" : "STRUCTURAL BEAMS-REINFORCING",
+  "award" : "410160",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.97053578315399",
+    "latitude" : "40.79156776872092",
+    "human_address" : "{\"address\":\"154 93 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10025\"}"
+  }
+}
+, {
+  "buildingid" : "K265",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "13",
+  "name" : "I.S. 265",
+  "projdesc" : "SCIENCE LAB",
+  "award" : "765000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.97572262403403",
+    "latitude" : "40.6963585351778",
+    "human_address" : "{\"address\":\"101 PARK AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11205\"}"
+  }
+}
+, {
+  "buildingid" : "K278",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "22",
+  "name" : "I.S. 278",
+  "projdesc" : "ROOFS/EXT MASONRY/FLOOD ELMNTN",
+  "award" : "5700000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93925429415825",
+    "latitude" : "40.60673733465248",
+    "human_address" : "{\"address\":\"1925 STUART STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11229\"}"
+  }
+}
+, {
+  "buildingid" : "K285",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "18",
+  "name" : "I.S. 285",
+  "projdesc" : "HEATING PLANT UPG/CLIMATE CTRL",
+  "award" : "4342000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.921125893014",
+    "latitude" : "40.64688182984673",
+    "human_address" : "{\"address\":\"5905 BEVERLY ROAD\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11203\"}"
+  }
+}
+, {
+  "buildingid" : "K291",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "32",
+  "name" : "I.S. 291",
+  "projdesc" : "HEATING PLANT UPGRADE/LOW-VOLTAGE",
+  "award" : "15199800",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91527095847802",
+    "latitude" : "40.695256718115104",
+    "human_address" : "{\"address\":\"231 PALMETTO STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11221\"}"
+  }
+}
+, {
+  "buildingid" : "K292",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "19",
+  "name" : "I.S. 292",
+  "projdesc" : "CONCRETE FACADE",
+  "award" : "3477000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.89288114787357",
+    "latitude" : "40.67148750548741",
+    "human_address" : "{\"address\":\"300 WYONA STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11207\"}"
+  }
+}
+, {
+  "buildingid" : "K318",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "14",
+  "name" : "I.S. 318",
+  "projdesc" : "PARAPETS/EXT MASONRY/EAST ROOF & FAN ROOM ROOF",
+  "award" : "4340000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94902462531712",
+    "latitude" : "40.702422370537974",
+    "human_address" : "{\"address\":\"101 WALTON STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11206\"}"
+  }
+}
+, {
+  "buildingid" : "K320",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "17",
+  "name" : "I.S. 320",
+  "projdesc" : "FLOOD ELMNTN/PARAPETS/SAFETY SYSTEMS/EXT MASONRY",
+  "award" : "3000050",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95904314893046",
+    "latitude" : "40.66501317051537",
+    "human_address" : "{\"address\":\"46 MCKEEVER PLACE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11225\"}"
+  }
+}
+, {
+  "buildingid" : "M125",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "5",
+  "name" : "I.S. 362 @ M125",
+  "projdesc" : "SCIENCE LAB",
+  "award" : "1354564",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95506966627367",
+    "latitude" : "40.81015743904045",
+    "human_address" : "{\"address\":\"425 123 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10027\"}"
+  }
+}
+, {
+  "buildingid" : "X067",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "12",
+  "name" : "I.S. 372 - X",
+  "projdesc" : "NEW SCIENCE LAB SUITE",
+  "award" : "945000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88479553814723",
+    "latitude" : "40.84392182388185",
+    "human_address" : "{\"address\":\"2024 MOHEGAN AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10460\"}"
+  }
+}
+, {
+  "buildingid" : "K383",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "32",
+  "name" : "I.S. 383",
+  "projdesc" : "PLANYC BOILER CONVERSION/PLANYC CLIMATE CONTROL",
+  "award" : "4668000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91986972170302",
+    "latitude" : "40.69762704651303",
+    "human_address" : "{\"address\":\"1300 GREENE AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11237\"}"
+  }
+}
+, {
+  "buildingid" : "K390",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "17",
+  "name" : "I.S. 390",
+  "projdesc" : "STAIRS IN STAIRWELL/FLOOD ELIM/CEC REQ-WINDOWS",
+  "award" : "4980000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93695770187597",
+    "latitude" : "40.67268717852895",
+    "human_address" : "{\"address\":\"1224 PARK PLACE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11213\"}"
+  }
+}
+, {
+  "buildingid" : "K049",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "14",
+  "name" : "I.S. 49",
+  "projdesc" : "FIRE ALARM",
+  "award" : "468000"
+}
+, {
+  "buildingid" : "X052",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "8",
+  "name" : "I.S. 52",
+  "projdesc" : "PARAPETS/MASONRY/ROOFS/FLOOD/PAVED AREAS/SAFETY",
+  "award" : "8893000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90236106648733",
+    "latitude" : "40.815402542289604",
+    "human_address" : "{\"address\":\"681 KELLY STREET\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10455\"}"
+  }
+}
+, {
+  "buildingid" : "K055",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "23",
+  "name" : "I.S. 55",
+  "projdesc" : "SAFETY SYSTEM/EXT MASONRY/WINDOWS",
+  "award" : "4535000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91355073965249",
+    "latitude" : "40.67414724704465",
+    "human_address" : "{\"address\":\"2021 BERGEN STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11233\"}"
+  }
+}
+, {
+  "buildingid" : "Q059",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "29",
+  "name" : "I.S. 59",
+  "projdesc" : "LIBRARY UPGRADE",
+  "award" : "408000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.75087393328533",
+    "latitude" : "40.66971118122609",
+    "human_address" : "{\"address\":\"132 55 RIDGEDALE STREET\",\"city\":\"SPRINGFIELD GARDENS\",\"state\":\"NY\",\"zip\":\"11413\"}"
+  }
+}
+, {
+  "buildingid" : "K061",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "17",
+  "name" : "I.S. 61",
+  "projdesc" : "BOILER REPLACEMENT/CONCRETE PAVER/CLIMATE CTRL",
+  "award" : "5462800",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9494072266281",
+    "latitude" : "40.66397432612488",
+    "human_address" : "{\"address\":\"400 EMPIRE BLVD\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11225\"}"
+  }
+}
+, {
+  "buildingid" : "R072",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "I.S. 72",
+  "projdesc" : "ELEVATORS & ESCALATORS",
+  "award" : "691000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.15872479868553",
+    "latitude" : "40.59325258206939",
+    "human_address" : "{\"address\":\"33 FERNDALE AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10314\"}"
+  }
+}
+, {
+  "buildingid" : "Q849",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "24",
+  "name" : "I.S. 77",
+  "projdesc" : "AUDITORIUM UPGRADE",
+  "award" : "1588000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90222734682403",
+    "latitude" : "40.699542257956786",
+    "human_address" : "{\"address\":\"976 SENECA AVENUE\",\"city\":\"RIDGEWOOD\",\"state\":\"NY\",\"zip\":\"11385\"}"
+  }
+}
+, {
+  "buildingid" : "Q849",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "24",
+  "name" : "I.S. 77",
+  "projdesc" : "EXTERIOR MASONRY/WINDOWS/ROOFS/PARAPETS/AC",
+  "award" : "12189000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90222734682403",
+    "latitude" : "40.699542257956786",
+    "human_address" : "{\"address\":\"976 SENECA AVENUE\",\"city\":\"RIDGEWOOD\",\"state\":\"NY\",\"zip\":\"11385\"}"
+  }
+}
+, {
+  "buildingid" : "K078",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "22",
+  "name" : "I.S. 78",
+  "projdesc" : "FLOOD ELMNTN/EXT MASONRY",
+  "award" : "1589500",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91286070496677",
+    "latitude" : "40.62118169409423",
+    "human_address" : "{\"address\":\"1420 68 STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11234\"}"
+  }
+}
+, {
+  "buildingid" : "X084",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "12",
+  "name" : "I.S. 84 (@X084)",
+  "projdesc" : "PLANYC BOILER CONVRSN/PLANYC CLIMATE CTRL",
+  "award" : "3997000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88752511974951",
+    "latitude" : "40.830644846579055",
+    "human_address" : "{\"address\":\"1434 LONGFELLOW AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10459\"}"
+  }
+}
+, {
+  "buildingid" : "K043",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "21",
+  "name" : "I.S. 98",
+  "projdesc" : "EXT MASONRY/ROOFS/SAFETY SYSTEMS/PARAPETS",
+  "award" : "4869000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95376310696645",
+    "latitude" : "40.58324060677732",
+    "human_address" : "{\"address\":\"1401 EMMONS AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11235\"}"
+  }
+}
+, {
+  "buildingid" : "X098",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "12",
+  "name" : "I.S. 98",
+  "projdesc" : "RETAINING WALL",
+  "award" : "229571",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.89054065425974",
+    "latitude" : "40.83591680891802",
+    "human_address" : "{\"address\":\"1619 BOSTON ROAD\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10460\"}"
+  }
+}
+, {
+  "buildingid" : "X139",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "7",
+  "name" : "INTERNATIONAL COMMUNITY",
+  "projdesc" : "NEW SCIENCE LAB SUITE",
+  "award" : "1182000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91782345430987",
+    "latitude" : "40.81004862442692",
+    "human_address" : "{\"address\":\"345 BROOK AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10454\"}"
+  }
+}
+, {
+  "buildingid" : "X113",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "11",
+  "name" : "IS 113",
+  "projdesc" : "FY07 RES0 A PLAYGROUND REDEVELOPMENT",
+  "award" : "555000.05",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.86088460706405",
+    "latitude" : "40.88086639044798",
+    "human_address" : "{\"address\":\"3710 BARNES AVE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10467\"}"
+  }
+}
+, {
+  "buildingid" : "X285",
+  "consttype" : "CAP",
+  "boro" : "X",
+  "geo_dist" : "9",
+  "name" : "IS 285",
+  "projdesc" : "New",
+  "award" : "34111000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.92787186717345",
+    "latitude" : "40.838131334426876",
+    "human_address" : "{\"address\":\"200 167th St\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10452\"}"
+  }
+}
+, {
+  "buildingid" : "Q297",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "30",
+  "name" : "IS 297",
+  "projdesc" : "DEMOLITION FOR IS 297",
+  "award" : "746444",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88361254528269",
+    "latitude" : "40.75163073936716",
+    "human_address" : "{\"address\":\"74 03 34TH AVE\",\"city\":\"JACKSON HEIGHTS\",\"state\":\"NY\",\"zip\":\"11372\"}"
+  }
+}
+, {
+  "buildingid" : "X147",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "9",
+  "name" : "IS 339 (OLD IS 147X)",
+  "projdesc" : "PLANYC BOILER/PLANYC CLIMATE CTRL",
+  "award" : "7116000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90441220971972",
+    "latitude" : "40.84131870954352",
+    "human_address" : "{\"address\":\"1600 WEBSTER AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10457\"}"
+  }
+}
+, {
+  "buildingid" : "Q404",
+  "consttype" : "CAP",
+  "boro" : "Q",
+  "geo_dist" : "78",
+  "name" : "IS/HS 404",
+  "projdesc" : "New",
+  "award" : "61098000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225",
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"1 50 51st Ave\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"11101\"}"
+  }
+}
+, {
+  "buildingid" : "K422",
+  "consttype" : "CAP",
+  "boro" : "K",
+  "geo_dist" : "78",
+  "name" : "IS/HS @ Spring Creek",
+  "projdesc" : "New",
+  "award" : "72847565",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.87479320757765",
+    "latitude" : "40.65755969070249",
+    "human_address" : "{\"address\":\"1065 Elton St\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11208\"}"
+  }
+}
+, {
+  "buildingid" : "X475",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "J F KENNEDY HS",
+  "projdesc" : "FY09 FINAL C OF O FOR MULTI-CAMPUS",
+  "award" : "8387000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91213621128965",
+    "latitude" : "40.877210772673564",
+    "human_address" : "{\"address\":\"99 TERRACE VIEW AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10463\"}"
+  }
+}
+, {
+  "buildingid" : "Q141",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "30",
+  "name" : "J.H.S. 141",
+  "projdesc" : "ROOFS/SAFETY/EXT MASONRY/PARAPETS",
+  "award" : "7459000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90960650023976",
+    "latitude" : "40.780092072491186",
+    "human_address" : "{\"address\":\"37 11 21 AVENUE\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11105\"}"
+  }
+}
+, {
+  "buildingid" : "X141",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "J.H.S. 141",
+  "projdesc" : "HEATING PLANT UPGRADE/CLIMATE CONTROL",
+  "award" : "3967000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9131873185513",
+    "latitude" : "40.88826732332943",
+    "human_address" : "{\"address\":\"660 237 STREET\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10463\"}"
+  }
+}
+, {
+  "buildingid" : "Q157",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "J.H.S. 157",
+  "projdesc" : "ROOFS/WDWS/HEATING UPG/FLOOD/MASON/PARAPET/CLIMATE",
+  "award" : "14279000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.86148084756303",
+    "latitude" : "40.72646491702238",
+    "human_address" : "{\"address\":\"63 55 102ND ST\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11374\"}"
+  }
+}
+, {
+  "buildingid" : "Q168",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "25",
+  "name" : "J.H.S. 168",
+  "projdesc" : "ACCESSIBILITY/FIRE ALARM/CLIM CTRL/HEAT PL UPG",
+  "award" : "8877000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.79226817393703",
+    "latitude" : "40.72816440726166",
+    "human_address" : "{\"address\":\"158 40 76 ROAD\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11366\"}"
+  }
+}
+, {
+  "buildingid" : "Q168",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "25",
+  "name" : "J.H.S. 168",
+  "projdesc" : "SCIENCE LAB UPGRADE",
+  "award" : "972000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.79226817393703",
+    "latitude" : "40.72816440726166",
+    "human_address" : "{\"address\":\"158 40 76 ROAD\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11366\"}"
+  }
+}
+, {
+  "buildingid" : "Q180",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "27",
+  "name" : "J.H.S. 180",
+  "projdesc" : "WINDOW/AC RETROFIT/AC SPLIT/MASONRY/PARAPET/ROOFS",
+  "award" : "22000000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.85077700055808",
+    "latitude" : "40.57657830564432",
+    "human_address" : "{\"address\":\"3 20 BEACH 104 STREET\",\"city\":\"ROCKAWAY\",\"state\":\"NY\",\"zip\":\"11694\"}"
+  }
+}
+, {
+  "buildingid" : "Q237",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "25",
+  "name" : "J.H.S. 237",
+  "projdesc" : "CEC REQUEST - SCIENCE LAB UPG",
+  "award" : "1176000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.82147854789662",
+    "latitude" : "40.7512997969481",
+    "human_address" : "{\"address\":\"46 21 COLDEN STREET\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11355\"}"
+  }
+}
+, {
+  "buildingid" : "Q025",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "25",
+  "name" : "J.H.S. 25",
+  "projdesc" : "SWB-EXT MASONRY/ROOFS/PARAPETS",
+  "award" : "5618000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.82147854789662",
+    "latitude" : "40.7512997969481",
+    "human_address" : "{\"address\":\"34 65 192 STREET\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11355\"}"
+  }
+}
+, {
+  "buildingid" : "K303",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "21",
+  "name" : "J.H.S. 303",
+  "projdesc" : "FY11 RESO A ELECTRICAL SYSTEM",
+  "award" : "196000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9727279509789",
+    "latitude" : "40.582102240554626",
+    "human_address" : "{\"address\":\"501 WEST AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11224\"}"
+  }
+}
+, {
+  "buildingid" : "K324",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "16",
+  "name" : "J.H.S. 324",
+  "projdesc" : "PLANYC BOILER CONVRSN/PLANYC CLIMATE CTRL",
+  "award" : "3819000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93217356292678",
+    "latitude" : "40.68830858053017",
+    "human_address" : "{\"address\":\"800 GATES AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11221\"}"
+  }
+}
+, {
+  "buildingid" : "M045",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "4",
+  "name" : "J.H.S. 45",
+  "projdesc" : "EXT MASONRY/ROOFS/PARAPETS",
+  "award" : "6670000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93335561512028",
+    "latitude" : "40.798869844574995",
+    "human_address" : "{\"address\":\"2351 1ST AVENUE\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10035\"}"
+  }
+}
+, {
+  "buildingid" : "K057",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "16",
+  "name" : "J.H.S. 57",
+  "projdesc" : "GYM ROOF/SEWAGE FLOODING/PARAPETS/EXT MASONRY",
+  "award" : "8625000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93365273330902",
+    "latitude" : "40.691184878420714",
+    "human_address" : "{\"address\":\"125 STUYVESANT AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11221\"}"
+  }
+}
+, {
+  "buildingid" : "M070",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "J.H.S. 70",
+  "projdesc" : "EXTERIOR MASONRY/PARAPETS/ROOFS/WINDOWS",
+  "award" : "10489000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.00204411405305",
+    "latitude" : "40.742083302451746",
+    "human_address" : "{\"address\":\"333 17 STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10011\"}"
+  }
+}
+, {
+  "buildingid" : "Q072",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "J.H.S. 72",
+  "projdesc" : "EXT MASONRY/ROOFS/FLOOD ELMNTN/PARAPETS",
+  "award" : "6176000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.77530690169215",
+    "latitude" : "40.6769452621142",
+    "human_address" : "{\"address\":\"133 25\",\"city\":\"ROCHDALE VILLAG\",\"state\":\"NY\",\"zip\":\"11434\"}"
+  }
+}
+, {
+  "buildingid" : "X080",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "J.H.S. 80/P.S. 280",
+  "projdesc" : "FLOOD ELIMINATION",
+  "award" : "1091773",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88147439492262",
+    "latitude" : "40.87619978760749",
+    "human_address" : "{\"address\":\"149 MOSHOLU PKWY\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10467\"}"
+  }
+}
+, {
+  "buildingid" : "Q470",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "JAMAICA HS",
+  "projdesc" : "CLIMATE CONTROL/HEATING PLANT UPGRADE",
+  "award" : "8100000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.79282099978928",
+    "latitude" : "40.71311535449007",
+    "human_address" : "{\"address\":\"167 01 GOTHIC DRIVE\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11432\"}"
+  }
+}
+, {
+  "buildingid" : "M440",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "JAMES BALDWIN HS",
+  "projdesc" : "LIBRARY UPGRADE",
+  "award" : "1132000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.00211145861485",
+    "latitude" : "40.74287308397775",
+    "human_address" : "{\"address\":\"351 18 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10011\"}"
+  }
+}
+, {
+  "buildingid" : "K425",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "22",
+  "name" : "JAMES MADISON HS",
+  "projdesc" : "FIRE ALARM",
+  "award" : "485500",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94845748858913",
+    "latitude" : "40.609742865286414",
+    "human_address" : "{\"address\":\"3787 BEDFORD AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11229\"}"
+  }
+}
+, {
+  "buildingid" : "K425",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "22",
+  "name" : "JAMES MADISON HS",
+  "projdesc" : "SCIENCE LAB UPGRADE",
+  "award" : "985000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94845748858913",
+    "latitude" : "40.609742865286414",
+    "human_address" : "{\"address\":\"3787 BEDFORD AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11229\"}"
+  }
+}
+, {
+  "buildingid" : "Q008",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "JHS 8",
+  "projdesc" : "SCIENCE LAB UPGRADE",
+  "award" : "1081000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.7875740339145",
+    "latitude" : "40.698104881734935",
+    "human_address" : "{\"address\":\"108 35 167 STREET\",\"city\":\"JAMAICA\",\"state\":\"NY\",\"zip\":\"11433\"}"
+  }
+}
+, {
+  "buildingid" : "Q425",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "25",
+  "name" : "JOHN BOWNE H.S.",
+  "projdesc" : "WIND REPLACE/AC RETROFIT/WIND BOE PORTION/UPG F.A.",
+  "award" : "27239000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.82610630716033",
+    "latitude" : "40.730323085042414",
+    "human_address" : "{\"address\":\"63 25 MAIN STREET\",\"city\":\"FLUSHING\",\"state\":\"NY\",\"zip\":\"11367\"}"
+  }
+}
+, {
+  "buildingid" : "K460",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "15",
+  "name" : "JOHN JAY HS",
+  "projdesc" : "CEC REQUEST-HEAT'G PLANT UPG/ELEC SYS/CLIMATE CTRL",
+  "award" : "8168000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.97924096910276",
+    "latitude" : "40.669623280409056",
+    "human_address" : "{\"address\":\"237 7TH AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11215\"}"
+  }
+}
+, {
+  "buildingid" : "K400",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "21",
+  "name" : "LAFAYETTE HS",
+  "projdesc" : "UPGRADE BOILER PLANT/CLIMATE CONTROL",
+  "award" : "12400000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.98615807328032",
+    "latitude" : "40.59448014682783",
+    "human_address" : "{\"address\":\"2630 BENSON AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11214\"}"
+  }
+}
+, {
+  "buildingid" : "Q490",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "29",
+  "name" : "LAW, GOVERNMENT & COMMUNITY HS",
+  "projdesc" : "CAMPUS RESTRUCTURING",
+  "award" : "435000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.73568329125084",
+    "latitude" : "40.694293339066405",
+    "human_address" : "{\"address\":\"207 01 116TH AVENUE\",\"city\":\"CAMBRIA HEIGHTS\",\"state\":\"NY\",\"zip\":\"11411\"}"
+  }
+}
+, {
+  "buildingid" : "X406",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "8",
+  "name" : "LEHMAN AF",
+  "projdesc" : "ATHLETIC FIELDS",
+  "award" : "3748000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.83830582037355",
+    "latitude" : "40.840618266233676",
+    "human_address" : "{\"address\":\"3000 TREMONT AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10461\"}"
+  }
+}
+, {
+  "buildingid" : "X405",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "8",
+  "name" : "LEHMAN HS",
+  "projdesc" : "FY07 RESO A COMPUTER EQUIPMENT UPGR",
+  "award" : "75757.5758",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.83830582037355",
+    "latitude" : "40.840618266233676",
+    "human_address" : "{\"address\":\"3000 TREMONT AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10461\"}"
+  }
+}
+, {
+  "buildingid" : "X405",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "8",
+  "name" : "LEHMAN HS",
+  "projdesc" : "STAIR WINDOWS",
+  "award" : "1087000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.83830582037355",
+    "latitude" : "40.840618266233676",
+    "human_address" : "{\"address\":\"3000 TREMONT AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10461\"}"
+  }
+}
+, {
+  "buildingid" : "M645",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "LIFE SCIENCE SECONDARY (@M645)",
+  "projdesc" : "FLOOD ELMNTN/EXT MASONRY/PARAPETS/ROOFS",
+  "award" : "7819500",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.03340357628376",
+    "latitude" : "40.616237105936534",
+    "human_address" : "{\"address\":\"320 96 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10028\"}"
+  }
+}
+, {
+  "buildingid" : "M490",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "3",
+  "name" : "MARTIN LUTHER KING HS",
+  "projdesc" : "AUD/ALARM REPLACEMENT/FINAL C OF O/VENTILATION",
+  "award" : "4647000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.98485156692796",
+    "latitude" : "40.77425845083081",
+    "human_address" : "{\"address\":\"122 AMSTERDAM AVENUE\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10023\"}"
+  }
+}
+, {
+  "buildingid" : "X099",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "12",
+  "name" : "METROPOLITAN HS @ FORMER PS99X",
+  "projdesc" : "CODE COMPLIANCE/PA SYSTEM/PARAPET/MASONRY/ROOFS",
+  "award" : "5186000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.89313106784448",
+    "latitude" : "40.82552621616202",
+    "human_address" : "{\"address\":\"1180 REVEREND JAMES POLITE AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10459\"}"
+  }
+}
+, {
+  "buildingid" : "M081",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "3",
+  "name" : "MID-MAN  ADULT TRAINING CENTER",
+  "projdesc" : "VENTILATION/ELEC SYSTEM",
+  "award" : "3711000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95128826417978",
+    "latitude" : "40.80602392163958",
+    "human_address" : "{\"address\":\"212 120TH ST\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10027\"}"
+  }
+}
+, {
+  "buildingid" : "Q520",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "30",
+  "name" : "MIDDLE COLLEGE HS  @LAGUARDIA",
+  "projdesc" : "DEMOLITION FOR MIDDLE COLLEGE HS",
+  "award" : "13112000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225",
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"45 35 VAN DAM ST\",\"city\":\"LONG ISLAND CITY\",\"state\":\"NY\",\"zip\":\"11101\"}"
+  }
+}
+, {
+  "buildingid" : "K406",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "21",
+  "name" : "MIDWOOD AF (MAIN)",
+  "projdesc" : "FY11 RESO A ATHLETIC FIELDS",
+  "award" : "2146000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95905922151692",
+    "latitude" : "40.62291467677543",
+    "human_address" : "{\"address\":\"1124 17TH STREET\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11230\"}"
+  }
+}
+, {
+  "buildingid" : "M435",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "4",
+  "name" : "MNHT CENTER FOR MATH & SCIENCE",
+  "projdesc" : "INTERIOR SPACES MARBLE PANELS ONLY",
+  "award" : "843000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9336482061862",
+    "latitude" : "40.794391919064594",
+    "human_address" : "{\"address\":\"260 PLEASANT AVENUE\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10029\"}"
+  }
+}
+, {
+  "buildingid" : "X400",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "9",
+  "name" : "MORRIS HS",
+  "projdesc" : "CERTIFICATE OF OCCUPANCY",
+  "award" : "5229000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90448079300582",
+    "latitude" : "40.8276109731601",
+    "human_address" : "{\"address\":\"1110 BOSTON RD\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10456\"}"
+  }
+}
+, {
+  "buildingid" : "K390",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "17",
+  "name" : "MS 334",
+  "projdesc" : "SCIENCE DEMO ROOM UPGRADE",
+  "award" : "808000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93695770187597",
+    "latitude" : "40.67268717852895",
+    "human_address" : "{\"address\":\"1224 PARK PLACE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11213\"}"
+  }
+}
+, {
+  "buildingid" : "Q520",
+  "consttype" : "CAP",
+  "boro" : "Q",
+  "geo_dist" : "78",
+  "name" : "Middle College HS @ LaGuardia",
+  "projdesc" : "New",
+  "award" : "27927000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225",
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"45 35 Van Dam St\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"11101\"}"
+  }
+}
+, {
+  "buildingid" : "Q520",
+  "consttype" : "CAP",
+  "boro" : "Q",
+  "geo_dist" : "78",
+  "name" : "Middle College HS @ LaGuardia",
+  "projdesc" : "Room Conversion",
+  "award" : "13112000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225",
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"45 35 Van Dam St\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"11101\"}"
+  }
+}
+, {
+  "buildingid" : "R435",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "NEW DORP HS",
+  "projdesc" : "LL 41/16 COMPLIANCE",
+  "award" : "10621.99",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.10726241466374",
+    "latitude" : "40.56922370455037",
+    "human_address" : "{\"address\":\"465 NEW DORP LANE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10306\"}"
+  }
+}
+, {
+  "buildingid" : "K032",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "15",
+  "name" : "NEW HORIZONS SCHOOL",
+  "projdesc" : "FY11 RESO A AUDITORIUM UPDATE",
+  "award" : "228000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.99193273420018",
+    "latitude" : "40.680429275762485",
+    "human_address" : "{\"address\":\"317 HOYT STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11231\"}"
+  }
+}
+, {
+  "buildingid" : "M868",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "NEW HS",
+  "projdesc" : "DEMOLITION FOR IS/HS 868",
+  "award" : "2182222",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.99224802961538",
+    "latitude" : "40.73631370241236",
+    "human_address" : "{\"address\":\"10 15TH ST\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10003\"}"
+  }
+}
+, {
+  "buildingid" : "K445",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "20",
+  "name" : "NEW UTRECHT HS",
+  "projdesc" : "EXT MASONRY/FLOOD ELMNTN/PARAPETS/ROOFS",
+  "award" : "10570000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.00368977353216",
+    "latitude" : "40.61345273159829",
+    "human_address" : "{\"address\":\"1601 80TH ST\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11214\"}"
+  }
+}
+, {
+  "buildingid" : "K445",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "20",
+  "name" : "NEW UTRECHT HS",
+  "projdesc" : "FY09 RESO A LIBRARY UPGRADE",
+  "award" : "353250",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.00368977353216",
+    "latitude" : "40.61345273159829",
+    "human_address" : "{\"address\":\"1601 80TH ST\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11214\"}"
+  }
+}
+, {
+  "buildingid" : "Q450",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "30",
+  "name" : "NEWCOMERS HS",
+  "projdesc" : "EXT MASONRY/PARAPETS/FLOOD ELMNTN",
+  "award" : "8395000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225",
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"28 01 41ST AVENUE\",\"city\":\"LONG ISLAND CITY\",\"state\":\"NY\",\"zip\":\"11101\"}"
+  }
+}
+, {
+  "buildingid" : "Q455",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "24",
+  "name" : "NEWTOWN HS",
+  "projdesc" : "FLOORS",
+  "award" : "2662000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.87475600018911",
+    "latitude" : "40.74125600016447",
+    "human_address" : "{\"address\":\"48 01 90 STREET\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11373-4099\"}"
+  }
+}
+, {
+  "buildingid" : "M001",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "P.S. 1",
+  "projdesc" : "EXTERIOR MASONRY/PARAPETS/PAVED AREAS-CONCRETE",
+  "award" : "5139000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.99734184420807",
+    "latitude" : "40.712756780441026",
+    "human_address" : "{\"address\":\"8 HENRY STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10038\"}"
+  }
+}
+, {
+  "buildingid" : "X001",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "7",
+  "name" : "P.S. 1",
+  "projdesc" : "IP SURVEILLANCE CAMERAS",
+  "award" : "1056000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91874134609046",
+    "latitude" : "40.818762661509254",
+    "human_address" : "{\"address\":\"335 152 STREET\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10451\"}"
+  }
+}
+, {
+  "buildingid" : "Q100",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "27",
+  "name" : "P.S. 100",
+  "projdesc" : "FLOOD ELMNTN/EXT MASONRY/PARAPETS",
+  "award" : "3199900",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.81770717164864",
+    "latitude" : "40.67334524268887",
+    "human_address" : "{\"address\":\"111 11 118 STREET\",\"city\":\"JAMAICA\",\"state\":\"NY\",\"zip\":\"11420\"}"
+  }
+}
+, {
+  "buildingid" : "K101",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "21",
+  "name" : "P.S. 101",
+  "projdesc" : "RESO A - RESO A SCIENCE LAB",
+  "award" : "268800",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.99175987597347",
+    "latitude" : "40.59787681678778",
+    "human_address" : "{\"address\":\"2360 BENSON AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11214\"}"
+  }
+}
+, {
+  "buildingid" : "M101",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "4",
+  "name" : "P.S. 101",
+  "projdesc" : "ACCESSIBILITY",
+  "award" : "3689000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94443112132485",
+    "latitude" : "40.79566898981534",
+    "human_address" : "{\"address\":\"141 111 STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10029\"}"
+  }
+}
+, {
+  "buildingid" : "M101",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "4",
+  "name" : "P.S. 101",
+  "projdesc" : "ELEC UPGRADE",
+  "award" : "287950",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94443112132485",
+    "latitude" : "40.79566898981534",
+    "human_address" : "{\"address\":\"141 111 STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10029\"}"
+  }
+}
+, {
+  "buildingid" : "X103",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "11",
+  "name" : "P.S. 103",
+  "projdesc" : "FY11 RESO A AUDITORIUM UPGRADE",
+  "award" : "419000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.8614419003563",
+    "latitude" : "40.89224585042134",
+    "human_address" : "{\"address\":\"4125 CARPENTER AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10466\"}"
+  }
+}
+, {
+  "buildingid" : "Q105",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "27",
+  "name" : "P.S. 105",
+  "projdesc" : "SWB EXT MASONRY/PARAPETS",
+  "award" : "1050000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.78189411037111",
+    "latitude" : "40.59623844790385",
+    "human_address" : "{\"address\":\"420 BEACH 51 STREET\",\"city\":\"FAR ROCKAWAY\",\"state\":\"NY\",\"zip\":\"11691\"}"
+  }
+}
+, {
+  "buildingid" : "K108",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "19",
+  "name" : "P.S. 108",
+  "projdesc" : "FY11 RESO A ELECTRICAL SYSTEM",
+  "award" : "345900",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88403250144414",
+    "latitude" : "40.681012991519715",
+    "human_address" : "{\"address\":\"200 LINWOOD STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11208\"}"
+  }
+}
+, {
+  "buildingid" : "Q108",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "27",
+  "name" : "P.S. 108",
+  "projdesc" : "CAFE MULTIPURPOSE ROOM UPG",
+  "award" : "233000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.81770717164864",
+    "latitude" : "40.67334524268887",
+    "human_address" : "{\"address\":\"108 10 109 AVENUE\",\"city\":\"SO OZONE PARK\",\"state\":\"NY\",\"zip\":\"11420\"}"
+  }
+}
+, {
+  "buildingid" : "X011",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "9",
+  "name" : "P.S. 11",
+  "projdesc" : "FLOOD ELMNTN/ROOFS/MASONRY/PARAPETS",
+  "award" : "6116000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.92578827979769",
+    "latitude" : "40.83927054580515",
+    "human_address" : "{\"address\":\"1257 OGDEN AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10456\"}"
+  }
+}
+, {
+  "buildingid" : "X011",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "9",
+  "name" : "P.S. 11",
+  "projdesc" : "SIDEWALK BRIDGE",
+  "award" : "19442.75",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.92578827979769",
+    "latitude" : "40.83927054580515",
+    "human_address" : "{\"address\":\"1257 OGDEN AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10456\"}"
+  }
+}
+, {
+  "buildingid" : "K110",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "14",
+  "name" : "P.S. 110",
+  "projdesc" : "ROOFS/WINDOWS",
+  "award" : "3778000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94223625609604",
+    "latitude" : "40.723642548516075",
+    "human_address" : "{\"address\":\"124 MONITOR STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11222\"}"
+  }
+}
+, {
+  "buildingid" : "M110",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "1",
+  "name" : "P.S. 110",
+  "projdesc" : "FLOOD ELIMINATION",
+  "award" : "547000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.97981939917048",
+    "latitude" : "40.715620302518175",
+    "human_address" : "{\"address\":\"285 DELANCY STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10002\"}"
+  }
+}
+, {
+  "buildingid" : "M111",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "P.S. 111",
+  "projdesc" : "CLIMATE CONTROL/HEATING PLANT UPGRADE",
+  "award" : "4305729",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.98953901918651",
+    "latitude" : "40.76616371249781",
+    "human_address" : "{\"address\":\"440 53 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10019\"}"
+  }
+}
+, {
+  "buildingid" : "Q111",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "30",
+  "name" : "P.S. 111",
+  "projdesc" : "HEATING PLANT UPG/CLIMATE CTRL",
+  "award" : "3811000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225",
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"37 15 13 STREET\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11101\"}"
+  }
+}
+, {
+  "buildingid" : "K112",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "20",
+  "name" : "P.S. 112",
+  "projdesc" : "PARAPETS/EXT MASONRY/FLOOD ELMNTN",
+  "award" : "1420000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.00071660633716",
+    "latitude" : "40.619828663672465",
+    "human_address" : "{\"address\":\"7115 15 AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11228\"}"
+  }
+}
+, {
+  "buildingid" : "K115",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "18",
+  "name" : "P.S. 115",
+  "projdesc" : "EXT MASONRY/ROOFS/PARAPETS",
+  "award" : "5747000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.89697682968284",
+    "latitude" : "40.63477746307819",
+    "human_address" : "{\"address\":\"1500 92ND ST\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11236\"}"
+  }
+}
+, {
+  "buildingid" : "M115",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "6",
+  "name" : "P.S. 115",
+  "projdesc" : "EXTERIOR MASONRY/HAZARDOUS-PARAPETS/ROOFS",
+  "award" : "2979000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93487128414608",
+    "latitude" : "40.84641769845956",
+    "human_address" : "{\"address\":\"586 177 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10033\"}"
+  }
+}
+, {
+  "buildingid" : "K116",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "32",
+  "name" : "P.S. 116",
+  "projdesc" : "FY11 RESO A SCIENCE",
+  "award" : "388000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91643018838859",
+    "latitude" : "40.69774977550555",
+    "human_address" : "{\"address\":\"515 KNICKERBOCKER AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11237\"}"
+  }
+}
+, {
+  "buildingid" : "M116",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "P.S. 116",
+  "projdesc" : "FY11 RESO A PLAYGROUND REDEVELOPMENT",
+  "award" : "300000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.97834193335258",
+    "latitude" : "40.74491153710013",
+    "human_address" : "{\"address\":\"210 33 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10016\"}"
+  }
+}
+, {
+  "buildingid" : "X012",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "11",
+  "name" : "P.S. 12",
+  "projdesc" : "HEATING PLT UPG/CLIMATE CNTRL/LOW-VOLT ELECTRICAL",
+  "award" : "5722850",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.84450496658253",
+    "latitude" : "40.84010546581863",
+    "human_address" : "{\"address\":\"2555 TRATMAN AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10461\"}"
+  }
+}
+, {
+  "buildingid" : "K121",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "21",
+  "name" : "P.S. 121",
+  "projdesc" : "SWB-EXT MASONRY",
+  "award" : "1295000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.97875690985585",
+    "latitude" : "40.62330608676003",
+    "human_address" : "{\"address\":\"5301 20TH AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11204\"}"
+  }
+}
+, {
+  "buildingid" : "Q121",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "P.S. 121",
+  "projdesc" : "CLIMATE CONTROL/HEATING PLANT UPGRADE",
+  "award" : "3305000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.81770717164864",
+    "latitude" : "40.67334524268887",
+    "human_address" : "{\"address\":\"126 10 109 AVENUE\",\"city\":\"SO OZONE PARK\",\"state\":\"NY\",\"zip\":\"11420\"}"
+  }
+}
+, {
+  "buildingid" : "M123",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "5",
+  "name" : "P.S. 123",
+  "projdesc" : "FY10 RESO A SCIENCE LAB UPGRADE",
+  "award" : "444000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94425698262674",
+    "latitude" : "40.81972211192899",
+    "human_address" : "{\"address\":\"301 140 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10030\"}"
+  }
+}
+, {
+  "buildingid" : "Q124",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "27",
+  "name" : "P.S. 124",
+  "projdesc" : "EXT MASONRY/PARAPETS",
+  "award" : "3342000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.81770717164864",
+    "latitude" : "40.67334524268887",
+    "human_address" : "{\"address\":\"129 15 150 AVENUE\",\"city\":\"SO OZONE PARK\",\"state\":\"NY\",\"zip\":\"11420\"}"
+  }
+}
+, {
+  "buildingid" : "M124",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "P.S. 124 (ECF)",
+  "projdesc" : "PARAPETS/EXTERIOR MASONRY",
+  "award" : "1367000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.99579682364542",
+    "latitude" : "40.71420254465372",
+    "human_address" : "{\"address\":\"40 DIVISION STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10002\"}"
+  }
+}
+, {
+  "buildingid" : "M126",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "P.S. 126",
+  "projdesc" : "FY10 RESO A LIBRARY",
+  "award" : "415000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9966721705172",
+    "latitude" : "40.710854298398544",
+    "human_address" : "{\"address\":\"80 CATHERINE STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10038\"}"
+  }
+}
+, {
+  "buildingid" : "X126",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "9",
+  "name" : "P.S. 126 (ECF)",
+  "projdesc" : "MASONRY/ROOFS/FLOOD ELMNTN/PARAPETS",
+  "award" : "5194000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9283372125368",
+    "latitude" : "40.83581122271332",
+    "human_address" : "{\"address\":\"175 166 STREET\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10452\"}"
+  }
+}
+, {
+  "buildingid" : "K127",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "20",
+  "name" : "P.S. 127",
+  "projdesc" : "EXT MASONRY",
+  "award" : "2149000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.01885662493696",
+    "latitude" : "40.62406545959219",
+    "human_address" : "{\"address\":\"7805 7 AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11209\"}"
+  }
+}
+, {
+  "buildingid" : "Q127",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "30",
+  "name" : "P.S. 127",
+  "projdesc" : "AUD UPG/CAFETERIA MULTIPURPOSE RM UPG",
+  "award" : "985000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.8723788986672",
+    "latitude" : "40.76341327370369",
+    "human_address" : "{\"address\":\"98 01 25 AVENUE\",\"city\":\"EAST ELMHURST\",\"state\":\"NY\",\"zip\":\"11369\"}"
+  }
+}
+, {
+  "buildingid" : "X129",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "12",
+  "name" : "P.S. 129 (PAIRED W X234)",
+  "projdesc" : "EXTERIOR MASONRY",
+  "award" : "2598000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.8865507352739",
+    "latitude" : "40.84549455019818",
+    "human_address" : "{\"address\":\"2055 MAPES AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10460\"}"
+  }
+}
+, {
+  "buildingid" : "X129",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "12",
+  "name" : "P.S. 129 (PAIRED W X234)",
+  "projdesc" : "SIDEWALK BRIDGE (EXT. MASONRY)",
+  "award" : "32157.31",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.8865507352739",
+    "latitude" : "40.84549455019818",
+    "human_address" : "{\"address\":\"2055 MAPES AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10460\"}"
+  }
+}
+, {
+  "buildingid" : "K132",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "14",
+  "name" : "P.S. 132",
+  "projdesc" : "FLOOD ELMNTN/WINDOWS/PARAPETS",
+  "award" : "6597000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9456777023208",
+    "latitude" : "40.71219332880771",
+    "human_address" : "{\"address\":\"320 MANHATTAN AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11206\"}"
+  }
+}
+, {
+  "buildingid" : "K132",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "14",
+  "name" : "P.S. 132",
+  "projdesc" : "FY10 RESO A GYM RENOVATION",
+  "award" : "70000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9456777023208",
+    "latitude" : "40.71219332880771",
+    "human_address" : "{\"address\":\"320 MANHATTAN AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11206\"}"
+  }
+}
+, {
+  "buildingid" : "K132",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "14",
+  "name" : "P.S. 132",
+  "projdesc" : "WORK REQUIRED TO OBTAIN C OF O",
+  "award" : "932000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9456777023208",
+    "latitude" : "40.71219332880771",
+    "human_address" : "{\"address\":\"320 MANHATTAN AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11206\"}"
+  }
+}
+, {
+  "buildingid" : "M132",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "6",
+  "name" : "P.S. 132",
+  "projdesc" : "FY11 RESO A SCIENCE LAB",
+  "award" : "243500",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93432269770818",
+    "latitude" : "40.85071645775963",
+    "human_address" : "{\"address\":\"185 WADSWORTH AVENUE\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10033\"}"
+  }
+}
+, {
+  "buildingid" : "X132",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "9",
+  "name" : "P.S. 132",
+  "projdesc" : "INTERIOR STRUCTURAL INVESTMENT - TEST",
+  "award" : "5005000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90656891847989",
+    "latitude" : "40.83194251909681",
+    "human_address" : "{\"address\":\"1245 WASHINGTON AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10456\"}"
+  }
+}
+, {
+  "buildingid" : "K135",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "18",
+  "name" : "P.S. 135",
+  "projdesc" : "PARAPETS/FLOOD ELMNTN/ROOFS",
+  "award" : "1784000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93311810571299",
+    "latitude" : "40.65357812334444",
+    "human_address" : "{\"address\":\"684 LINDEN BLVD\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11203\"}"
+  }
+}
+, {
+  "buildingid" : "K138",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "17",
+  "name" : "P.S. 138",
+  "projdesc" : "ROOFS/PARAPETS/EXT MASONRY",
+  "award" : "2793000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95141196170016",
+    "latitude" : "40.674353675202426",
+    "human_address" : "{\"address\":\"760 PROSPECT PLACE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11216\"}"
+  }
+}
+, {
+  "buildingid" : "K138",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "17",
+  "name" : "P.S. 138",
+  "projdesc" : "SCIENCE DEMO ROOM UPGRADE",
+  "award" : "762000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95141196170016",
+    "latitude" : "40.674353675202426",
+    "human_address" : "{\"address\":\"760 PROSPECT PLACE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11216\"}"
+  }
+}
+, {
+  "buildingid" : "M844",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "P.S. 138 (@M844)",
+  "projdesc" : "SWB - FACADE/PARAPETS/ROOFS",
+  "award" : "8833000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.97802974198606",
+    "latitude" : "40.73757796345728",
+    "human_address" : "{\"address\":\"400 1ST AVENUE\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10010\"}"
+  }
+}
+, {
+  "buildingid" : "K849",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "22",
+  "name" : "P.S. 139 AX (OLD 134)",
+  "projdesc" : "LL 41/16 COMPLIANCE",
+  "award" : "100000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.97391982714538",
+    "latitude" : "40.632244467750226",
+    "human_address" : "{\"address\":\"4001 18 AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11208\"}"
+  }
+}
+, {
+  "buildingid" : "R014",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 14",
+  "projdesc" : "ROOFS/EXT MASONRY/WINDOWS/FLOORS/SAFETY SYSTEMS",
+  "award" : "3315000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.07837687526822",
+    "latitude" : "40.622148795415534",
+    "human_address" : "{\"address\":\"100 TOMPKINS AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10304\"}"
+  }
+}
+, {
+  "buildingid" : "Q140",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "P.S. 140",
+  "projdesc" : "PARAPETS",
+  "award" : "3269000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.77530690169215",
+    "latitude" : "40.6769452621142",
+    "human_address" : "{\"address\":\"116 00 166 ST\",\"city\":\"JAMAICA\",\"state\":\"NY\",\"zip\":\"11434\"}"
+  }
+}
+, {
+  "buildingid" : "M142",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "1",
+  "name" : "P.S. 142",
+  "projdesc" : "ELEVATORS & ESCALATORS/TOILETS-STUDENTS",
+  "award" : "2995000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.98376386528082",
+    "latitude" : "40.71945606619147",
+    "human_address" : "{\"address\":\"100 ATTORNEY STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10002\"}"
+  }
+}
+, {
+  "buildingid" : "K145",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "32",
+  "name" : "P.S. 145",
+  "projdesc" : "PARAPETS/FLOOD ELMNTN/EXT MASONRY/EXT LIGHTING",
+  "award" : "4737575",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93232374110994",
+    "latitude" : "40.7016598916867",
+    "human_address" : "{\"address\":\"100 NOLL STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11206\"}"
+  }
+}
+, {
+  "buildingid" : "K142",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "15",
+  "name" : "P.S. 146 (@K142)",
+  "projdesc" : "PARAPETS/EXTERIOR MASONRY/ROOFS/WINDOWS/FLOOD",
+  "award" : "13106731",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.00136121297172",
+    "latitude" : "40.68011121449034",
+    "human_address" : "{\"address\":\"610 HENRY STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11231\"}"
+  }
+}
+, {
+  "buildingid" : "Q147",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "29",
+  "name" : "P.S. 147",
+  "projdesc" : "FLOORS",
+  "award" : "537000"
+}
+, {
+  "buildingid" : "K015",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "15",
+  "name" : "P.S. 15",
+  "projdesc" : "LIBRARY UPGRADE",
+  "award" : "411054"
+}
+, {
+  "buildingid" : "M153",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "6",
+  "name" : "P.S. 153",
+  "projdesc" : "DEFECTIVE MASONRY/ROOFS/DOORS/PARAPETS",
+  "award" : "4134000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94689450753023",
+    "latitude" : "40.8262600138953",
+    "human_address" : "{\"address\":\"1750 AMSTERDAM AVENUE\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10031\"}"
+  }
+}
+, {
+  "buildingid" : "Q154",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "25",
+  "name" : "P.S. 154",
+  "projdesc" : "ACCESSIBILITY/ELEC SYS/MASONRY/ROOFS/FLOOD/PARAPET",
+  "award" : "6127000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.79226817393703",
+    "latitude" : "40.72816440726166",
+    "human_address" : "{\"address\":\"75 02 162 STREET\",\"city\":\"FLUSHING\",\"state\":\"NY\",\"zip\":\"11366\"}"
+  }
+}
+, {
+  "buildingid" : "M155",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "4",
+  "name" : "P.S. 155",
+  "projdesc" : "FLOOD ELMNTN/PARAPETS/EXT MASONRY",
+  "award" : "2350000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93679763009355",
+    "latitude" : "40.797501313680264",
+    "human_address" : "{\"address\":\"319 117 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10035\"}"
+  }
+}
+, {
+  "buildingid" : "Q156",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "29",
+  "name" : "P.S. 156",
+  "projdesc" : "SWB - EXT MASONRY/FLOOD ELMNTN/WINDOWS/PARAPETS",
+  "award" : "7354000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.75087393328533",
+    "latitude" : "40.66971118122609",
+    "human_address" : "{\"address\":\"229 02 137 AVENUE\",\"city\":\"SPRINGFIELD GAR\",\"state\":\"NY\",\"zip\":\"11413\"}"
+  }
+}
+, {
+  "buildingid" : "X156",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "7",
+  "name" : "P.S. 156",
+  "projdesc" : "CINDER BLOCK WALLS & CEILING BEAMS/FLOOD ELIMN",
+  "award" : "9780000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.92024166597307",
+    "latitude" : "40.82226334901861",
+    "human_address" : "{\"address\":\"750 CONCOURSE VILLAGE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10451\"}"
+  }
+}
+, {
+  "buildingid" : "K157",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "14",
+  "name" : "P.S. 157",
+  "projdesc" : "SWB-MASONRY",
+  "award" : "1843000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95959701353979",
+    "latitude" : "40.69546110023352",
+    "human_address" : "{\"address\":\"850 KENT AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11205\"}"
+  }
+}
+, {
+  "buildingid" : "X157",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "7",
+  "name" : "P.S. 157",
+  "projdesc" : "FY11 RESO A LIBRARY UPGRADE",
+  "award" : "178000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90861019557366",
+    "latitude" : "40.81920242494304",
+    "human_address" : "{\"address\":\"757 CAULDWELL AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10456\"}"
+  }
+}
+, {
+  "buildingid" : "K158",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "19",
+  "name" : "P.S. 158",
+  "projdesc" : "EXT MASONRY/FLOOD ELIMINATION",
+  "award" : "4244000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88480467674624",
+    "latitude" : "40.672471173748015",
+    "human_address" : "{\"address\":\"400 ASHFORD STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11207\"}"
+  }
+}
+, {
+  "buildingid" : "K016",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "14",
+  "name" : "P.S. 16",
+  "projdesc" : "CEC REQUEST - STUDENT CAFETERIA UPG",
+  "award" : "1139000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.96144993294666",
+    "latitude" : "40.706051659903764",
+    "human_address" : "{\"address\":\"157 WILSON STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11211\"}"
+  }
+}
+, {
+  "buildingid" : "X160",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "11",
+  "name" : "P.S. 160",
+  "projdesc" : "FY11 RESO A LIBRARY",
+  "award" : "345300",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.8242748469253",
+    "latitude" : "40.86466106194175",
+    "human_address" : "{\"address\":\"4140 HUTCHINSON RIVER PARKWAY\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10475\"}"
+  }
+}
+, {
+  "buildingid" : "K161",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "17",
+  "name" : "P.S. 161",
+  "projdesc" : "LIBRARY UPGRADE",
+  "award" : "89500",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94885261044026",
+    "latitude" : "40.66615564566118",
+    "human_address" : "{\"address\":\"330 CROWN STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11225\"}"
+  }
+}
+, {
+  "buildingid" : "X163",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "9",
+  "name" : "P.S. 163",
+  "projdesc" : "INTERIOR MODERNIZATIONS/ROOFS",
+  "award" : "3143000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.89841328719618",
+    "latitude" : "40.85190466527893",
+    "human_address" : "{\"address\":\"2075 WEBSTER AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10457\"}"
+  }
+}
+, {
+  "buildingid" : "M165",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "3",
+  "name" : "P.S. 165",
+  "projdesc" : "ROOF TILES & SNOW GUARD/EXT MASONRY/FLOOD/PARAPETS",
+  "award" : "2118994.65",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.96526411800443",
+    "latitude" : "40.80275180384162",
+    "human_address" : "{\"address\":\"234 109 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10025\"}"
+  }
+}
+, {
+  "buildingid" : "K017",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "14",
+  "name" : "P.S. 17",
+  "projdesc" : "WINDOWS/EXT MASONRY/FLOOD ELMNTN/ROOFS/PARAPETS",
+  "award" : "7842000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95663645640386",
+    "latitude" : "40.715277522913524",
+    "human_address" : "{\"address\":\"208 5 STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11211\"}"
+  }
+}
+, {
+  "buildingid" : "M173",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "6",
+  "name" : "P.S. 173",
+  "projdesc" : "FIRE ALARM",
+  "award" : "359900",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94042010106682",
+    "latitude" : "40.84561730185351",
+    "human_address" : "{\"address\":\"306 FORT WASHINGTON AVE\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10033\"}"
+  }
+}
+, {
+  "buildingid" : "Q174",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "P.S. 174",
+  "projdesc" : "FY11 RESO A LIBRARY UPGRADE",
+  "award" : "104000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.86148084756303",
+    "latitude" : "40.72646491702238",
+    "human_address" : "{\"address\":\"65 10 DIETERLE CRESCENT\",\"city\":\"REGO PARK\",\"state\":\"NY\",\"zip\":\"11374\"}"
+  }
+}
+, {
+  "buildingid" : "Q175",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "P.S. 175",
+  "projdesc" : "FY11 RESO A FENCING",
+  "award" : "319571",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.86148084756303",
+    "latitude" : "40.72646491702238",
+    "human_address" : "{\"address\":\"64 35 102 STREET\",\"city\":\"REGO PARK\",\"state\":\"NY\",\"zip\":\"11374\"}"
+  }
+}
+, {
+  "buildingid" : "X175",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "11",
+  "name" : "P.S. 175",
+  "projdesc" : "INTERIOR MODERNIZATIONS/WINDOWS",
+  "award" : "5296000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.78516944174876",
+    "latitude" : "40.84381012246547",
+    "human_address" : "{\"address\":\"200 CITY ISLAND AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10464\"}"
+  }
+}
+, {
+  "buildingid" : "K178",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "23",
+  "name" : "P.S. 178",
+  "projdesc" : "FLOORS",
+  "award" : "695000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9159181765978",
+    "latitude" : "40.675074588842676",
+    "human_address" : "{\"address\":\"2163 DEAN STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11212\"}"
+  }
+}
+, {
+  "buildingid" : "Q178",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "26",
+  "name" : "P.S. 178",
+  "projdesc" : "HEATING PLANT UPGRADE/CLIMATE CONTROL/MASONRY",
+  "award" : "7100000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.7671414999802",
+    "latitude" : "40.71722229567246",
+    "human_address" : "{\"address\":\"189 10 RADNOR RD\",\"city\":\"JAMAICA\",\"state\":\"NY\",\"zip\":\"11423\"}"
+  }
+}
+, {
+  "buildingid" : "R018",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 18",
+  "projdesc" : "BOILER REPLACEMENT",
+  "award" : "3171000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.11747369098056",
+    "latitude" : "40.63603930909672",
+    "human_address" : "{\"address\":\"221 BROADWAY\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10310\"}"
+  }
+}
+, {
+  "buildingid" : "X182",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "8",
+  "name" : "P.S. 182",
+  "projdesc" : "BRICK MASONRY WATER PENETRATION/WINDOWS",
+  "award" : "3464027",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.85625766017206",
+    "latitude" : "40.817936957362555",
+    "human_address" : "{\"address\":\"601 STICKBALL BLVD\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10473\"}"
+  }
+}
+, {
+  "buildingid" : "Q183",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "27",
+  "name" : "P.S. 183",
+  "projdesc" : "MSNRY/SFTY/WINDOW/LIBRARY UPG/HVAC/ROOF/FIRE ALARM",
+  "award" : "8248000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.82495531523557",
+    "latitude" : "40.6183036047276",
+    "human_address" : "{\"address\":\"2 45 BEACH 79 STREET\",\"city\":\"ROCKAWAY BEACH\",\"state\":\"NY\",\"zip\":\"11693\"}"
+  }
+}
+, {
+  "buildingid" : "M137",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "1",
+  "name" : "P.S. 184 (SHUANG WEN @M137)",
+  "projdesc" : "FY11 RESO A PLAYGROUND REDEVELOPMENT",
+  "award" : "230000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.98042410080346",
+    "latitude" : "40.71217484702834",
+    "human_address" : "{\"address\":\"327 CHERRY ST\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10002\"}"
+  }
+}
+, {
+  "buildingid" : "M137",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "1",
+  "name" : "P.S. 184 (SHUANG WEN @M137)",
+  "projdesc" : "SWB-HAZARDOUS VIOLATION/ROOFS",
+  "award" : "979000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.98042410080346",
+    "latitude" : "40.71217484702834",
+    "human_address" : "{\"address\":\"327 CHERRY ST\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10002\"}"
+  }
+}
+, {
+  "buildingid" : "Q186",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "26",
+  "name" : "P.S. 186",
+  "projdesc" : "ACCESSIBILITY/FIRE ALARM SYSTEM/ELECTRICAL SYSTEMS",
+  "award" : "4577000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.72415699894628",
+    "latitude" : "40.73704138495202",
+    "human_address" : "{\"address\":\"252 12 72 AVENUE\",\"city\":\"BELLEROSE\",\"state\":\"NY\",\"zip\":\"11426\"}"
+  }
+}
+, {
+  "buildingid" : "Q186",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "26",
+  "name" : "P.S. 186",
+  "projdesc" : "FLOOD ELIMINATION",
+  "award" : "968000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.72415699894628",
+    "latitude" : "40.73704138495202",
+    "human_address" : "{\"address\":\"252 12 72 AVENUE\",\"city\":\"BELLEROSE\",\"state\":\"NY\",\"zip\":\"11426\"}"
+  }
+}
+, {
+  "buildingid" : "K188",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "21",
+  "name" : "P.S. 188",
+  "projdesc" : "RESO A GYM ADDITION/FY10 RESO A PLAYGROUND",
+  "award" : "7879007",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.00012292790208",
+    "latitude" : "40.57720405091032",
+    "human_address" : "{\"address\":\"3314 NEPTUNE AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11224\"}"
+  }
+}
+, {
+  "buildingid" : "M188",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "1",
+  "name" : "P.S. 188",
+  "projdesc" : "ACCESSIBILITY",
+  "award" : "6422000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.97792876586212",
+    "latitude" : "40.719709960041634",
+    "human_address" : "{\"address\":\"442 HOUSTON STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10002\"}"
+  }
+}
+, {
+  "buildingid" : "M188",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "1",
+  "name" : "P.S. 188",
+  "projdesc" : "EXTERIOR MASONRY/ROOFS/PARAPETS/WINDOWS",
+  "award" : "13457000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.97792876586212",
+    "latitude" : "40.719709960041634",
+    "human_address" : "{\"address\":\"442 HOUSTON STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10002\"}"
+  }
+}
+, {
+  "buildingid" : "K189",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "17",
+  "name" : "P.S. 189",
+  "projdesc" : "LOW-VOLT SYSTEM",
+  "award" : "840000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.92626797722787",
+    "latitude" : "40.66553683638519",
+    "human_address" : "{\"address\":\"1100 NEW YORK AVE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11212\"}"
+  }
+}
+, {
+  "buildingid" : "Q019",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "24",
+  "name" : "P.S. 19",
+  "projdesc" : "SWB - EXT MASONRY/ROOFS/FLOOD ELIMINATION/PARAPETS",
+  "award" : "16175000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.85304068857687",
+    "latitude" : "40.749678220373596",
+    "human_address" : "{\"address\":\"98 02 ROOSEVELT AVE\",\"city\":\"CORONA\",\"state\":\"NY\",\"zip\":\"11368\"}"
+  }
+}
+, {
+  "buildingid" : "R019",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 19",
+  "projdesc" : "IP SURVEILLANCE CAMERAS",
+  "award" : "1270000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.127115288525",
+    "latitude" : "40.631189624083056",
+    "human_address" : "{\"address\":\"780 POST AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10310\"}"
+  }
+}
+, {
+  "buildingid" : "K190",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "19",
+  "name" : "P.S. 190",
+  "projdesc" : "PARAPETS/ROOFS/EXT MASONRY",
+  "award" : "6720000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.89448660618348",
+    "latitude" : "40.66233878188243",
+    "human_address" : "{\"address\":\"590 SHEFFIELD AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11207\"}"
+  }
+}
+, {
+  "buildingid" : "K191",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "17",
+  "name" : "P.S. 191",
+  "projdesc" : "SAFETY SYSTEMS",
+  "award" : "345900",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.92433266937152",
+    "latitude" : "40.671984269991356",
+    "human_address" : "{\"address\":\"1600 PARK PLACE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11233\"}"
+  }
+}
+, {
+  "buildingid" : "X198",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "12",
+  "name" : "P.S. 198",
+  "projdesc" : "PLANYC BOILER CONVRSN/PLANYC CLIMATE CTRL",
+  "award" : "3794000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90058806585479",
+    "latitude" : "40.82868626889099",
+    "human_address" : "{\"address\":\"1180 TINTON AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10456\"}"
+  }
+}
+, {
+  "buildingid" : "K199",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "21",
+  "name" : "P.S. 199",
+  "projdesc" : "FY11 RESO A LIBRARY",
+  "award" : "369000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.96308897272426",
+    "latitude" : "40.61673348809886",
+    "human_address" : "{\"address\":\"1100 ELM AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11230\"}"
+  }
+}
+, {
+  "buildingid" : "R020",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 20",
+  "projdesc" : "EXT MASONRY/ROOFS/WINDOWS",
+  "award" : "3285000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.13295576709373",
+    "latitude" : "40.63651173103697",
+    "human_address" : "{\"address\":\"161 PARK AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10302\"}"
+  }
+}
+, {
+  "buildingid" : "X020",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "P.S. 20",
+  "projdesc" : "ROOFS",
+  "award" : "1470000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.87958395897564",
+    "latitude" : "40.869529034465444",
+    "human_address" : "{\"address\":\"3020 WEBSTER AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10467\"}"
+  }
+}
+, {
+  "buildingid" : "K203",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "22",
+  "name" : "P.S. 203",
+  "projdesc" : "EXT MASONRY/ROOFS/PARAPETS/FLOOD ELMNTN",
+  "award" : "5668000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.92773224974349",
+    "latitude" : "40.61636866748006",
+    "human_address" : "{\"address\":\"5101 AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11234\"}"
+  }
+}
+, {
+  "buildingid" : "Q206",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "P.S. 206",
+  "projdesc" : "FLOOD ELIMINATION",
+  "award" : "283000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.86148084756303",
+    "latitude" : "40.72646491702238",
+    "human_address" : "{\"address\":\"61 02 98TH STREET\",\"city\":\"REGO PARK\",\"state\":\"NY\",\"zip\":\"11374\"}"
+  }
+}
+, {
+  "buildingid" : "M206",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "4",
+  "name" : "P.S. 206  (TANDEM PS 112)",
+  "projdesc" : "EXT MASONRY/PARAPETS/FLD ELIMINATION/ROOFS/WALKWAY",
+  "award" : "5822870",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93112623193574",
+    "latitude" : "40.79754733338499",
+    "human_address" : "{\"address\":\"508 120TH STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10035\"}"
+  }
+}
+, {
+  "buildingid" : "R021",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 21",
+  "projdesc" : "FLOORS",
+  "award" : "418000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.14676832354822",
+    "latitude" : "40.63194814504947",
+    "human_address" : "{\"address\":\"168 HOOKER PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10303\"}"
+  }
+}
+, {
+  "buildingid" : "X021",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "11",
+  "name" : "P.S. 21",
+  "projdesc" : "PARAPETS/EXT MASONRY/FLOOD ELIMINATION/ROOFS",
+  "award" : "5259000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.86044891659131",
+    "latitude" : "40.88782430615607",
+    "human_address" : "{\"address\":\"715 225 STREET\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10466\"}"
+  }
+}
+, {
+  "buildingid" : "K214",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "19",
+  "name" : "P.S. 214",
+  "projdesc" : "EXT MASONRY/PARAPETS/FLOOD/WINDOWS/ROOFS",
+  "award" : "7654000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.8631601400929",
+    "latitude" : "40.67649228343164",
+    "human_address" : "{\"address\":\"2944 PITKIN AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11208\"}"
+  }
+}
+, {
+  "buildingid" : "Q215",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "27",
+  "name" : "P.S. 215",
+  "projdesc" : "FY11 RESO A SCIENCE LAB UPGRADES",
+  "award" : "260000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.75832418340367",
+    "latitude" : "40.59915376512268",
+    "human_address" : "{\"address\":\"535 BRIAR PLACE\",\"city\":\"FAR ROCKAWAY\",\"state\":\"NY\",\"zip\":\"11691\"}"
+  }
+}
+, {
+  "buildingid" : "K219",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "18",
+  "name" : "P.S. 219",
+  "projdesc" : "EXT MASONRY/PARAPETS/ROOFS",
+  "award" : "3079000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.92291949545782",
+    "latitude" : "40.65925656671725",
+    "human_address" : "{\"address\":\"1060 CLARKSON AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11212\"}"
+  }
+}
+, {
+  "buildingid" : "Q022",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "25",
+  "name" : "P.S. 22",
+  "projdesc" : "FY10 RESO A NEW PLAYGROUND",
+  "award" : "180000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.82147854789662",
+    "latitude" : "40.7512997969481",
+    "human_address" : "{\"address\":\"153 01 SANFORD AVENUE\",\"city\":\"FLUSHING\",\"state\":\"NY\",\"zip\":\"11355\"}"
+  }
+}
+, {
+  "buildingid" : "R022",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 22",
+  "projdesc" : "LIBRARY UPGRADE",
+  "award" : "340000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.15109445915424",
+    "latitude" : "40.62530363633885",
+    "human_address" : "{\"address\":\"1860 FOREST AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10303\"}"
+  }
+}
+, {
+  "buildingid" : "K225",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "21",
+  "name" : "P.S. 225",
+  "projdesc" : "ACCESSIBILITY/FIRE ALARM/ELECTRICAL SYSTEMS",
+  "award" : "4105450",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95643350547934",
+    "latitude" : "40.5797910944251",
+    "human_address" : "{\"address\":\"1075 OCEAN VIEW AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11235\"}"
+  }
+}
+, {
+  "buildingid" : "Q229",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "24",
+  "name" : "P.S. 229",
+  "projdesc" : "SWB - MASONRY/ROOFS",
+  "award" : "3633000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9048471440804",
+    "latitude" : "40.74519376448069",
+    "human_address" : "{\"address\":\"67 25 51 ROAD\",\"city\":\"WOODSIDE\",\"state\":\"NY\",\"zip\":\"11377\"}"
+  }
+}
+, {
+  "buildingid" : "X229",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "9",
+  "name" : "P.S. 229",
+  "projdesc" : "ELEVATORS & ESCALATORS",
+  "award" : "1327150",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.92150462714196",
+    "latitude" : "40.85261854069672",
+    "human_address" : "{\"address\":\"275 HARLEM RIVER PARK BR\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10453\"}"
+  }
+}
+, {
+  "buildingid" : "X229",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "9",
+  "name" : "P.S. 229",
+  "projdesc" : "PLANYC BOILER/PLANYC CLIMATE CTRL",
+  "award" : "2910000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.92150462714196",
+    "latitude" : "40.85261854069672",
+    "human_address" : "{\"address\":\"275 HARLEM RIVER PARK BR\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10453\"}"
+  }
+}
+, {
+  "buildingid" : "K230",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "15",
+  "name" : "P.S. 230",
+  "projdesc" : "ACCESSIBILITY",
+  "award" : "4392000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.98088211473515",
+    "latitude" : "40.64501828504539",
+    "human_address" : "{\"address\":\"1 ALBEMARLE ROAD\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11210\"}"
+  }
+}
+, {
+  "buildingid" : "Q232",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "27",
+  "name" : "P.S. 232",
+  "projdesc" : "FY11 RESO A SCIENCE LAB UPGRADES",
+  "award" : "384000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.84496263981396",
+    "latitude" : "40.65817022817356",
+    "human_address" : "{\"address\":\"153 23 83 STREET\",\"city\":\"HOWARD BEACH\",\"state\":\"NY\",\"zip\":\"11414\"}"
+  }
+}
+, {
+  "buildingid" : "K236",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "22",
+  "name" : "P.S. 236",
+  "projdesc" : "EXT MASONRY/FLOOD ELIMINATION",
+  "award" : "1054000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.92773224974349",
+    "latitude" : "40.61636866748006",
+    "human_address" : "{\"address\":\"6302 AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11234\"}"
+  }
+}
+, {
+  "buildingid" : "K249",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "17",
+  "name" : "P.S. 249",
+  "projdesc" : "EXT MASONRY/ROOFS/PARAPETS",
+  "award" : "4474000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.96609617601914",
+    "latitude" : "40.649842155595174",
+    "human_address" : "{\"address\":\"18 MARLBOROUGH ROAD\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11226\"}"
+  }
+}
+, {
+  "buildingid" : "K249",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "17",
+  "name" : "P.S. 249",
+  "projdesc" : "FY11 RESO A AUDITORIUM UPGRADE",
+  "award" : "198000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.96609617601914",
+    "latitude" : "40.649842155595174",
+    "human_address" : "{\"address\":\"18 MARLBOROUGH ROAD\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11226\"}"
+  }
+}
+, {
+  "buildingid" : "K253",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "21",
+  "name" : "P.S. 253",
+  "projdesc" : "BOILER PLANT/CLIMATE CONTROL",
+  "award" : "4282800",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.96219337408164",
+    "latitude" : "40.579594157400855",
+    "human_address" : "{\"address\":\"601 OCEAN VIEW AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11235\"}"
+  }
+}
+, {
+  "buildingid" : "Q816",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "27",
+  "name" : "P.S. 256 ANNEX",
+  "projdesc" : "WINDOWS/EXT MASONRY",
+  "award" : "5282000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.85454217391299",
+    "latitude" : "40.576996863641924",
+    "human_address" : "{\"address\":\"445 BEACH 135 STREET\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11694\"}"
+  }
+}
+, {
+  "buildingid" : "K026",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "16",
+  "name" : "P.S. 26",
+  "projdesc" : "PLANYC BOILER/PLANYC CLIMATE CTRL",
+  "award" : "3960000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93167037460694",
+    "latitude" : "40.69211086975316",
+    "human_address" : "{\"address\":\"1010 LAFAYETTE AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11221\"}"
+  }
+}
+, {
+  "buildingid" : "Q026",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "26",
+  "name" : "P.S. 26",
+  "projdesc" : "ELECTRICAL SYSTEM",
+  "award" : "594999",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.79462153515567",
+    "latitude" : "40.73987184371066",
+    "human_address" : "{\"address\":\"195 02 69 AVENUE\",\"city\":\"FLUSHING\",\"state\":\"NY\",\"zip\":\"11365\"}"
+  }
+}
+, {
+  "buildingid" : "K262",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "16",
+  "name" : "P.S. 262",
+  "projdesc" : "NEW SCIENCE DEMONSTRATION ROOM",
+  "award" : "534000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93085733477353",
+    "latitude" : "40.68321860795158",
+    "human_address" : "{\"address\":\"500 MACON STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11233\"}"
+  }
+}
+, {
+  "buildingid" : "K273",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "19",
+  "name" : "P.S. 273",
+  "projdesc" : "EXT MASONRY/ROOFS/PARAPETS",
+  "award" : "5335000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.87935692616207",
+    "latitude" : "40.65796581134507",
+    "human_address" : "{\"address\":\"923 JEROME STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11207\"}"
+  }
+}
+, {
+  "buildingid" : "X027",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "7",
+  "name" : "P.S. 277 (@ X027)",
+  "projdesc" : "SWB-ROOF/SWB-EXT MASONRY/WINDOWS/PARAPETS/ HEATING",
+  "award" : "15843000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91337206062776",
+    "latitude" : "40.813641430845045",
+    "human_address" : "{\"address\":\"519 ST ANNS AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10451\"}"
+  }
+}
+, {
+  "buildingid" : "X279",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "P.S. 279",
+  "projdesc" : "FIRE ALARM UPGRADE",
+  "award" : "2998000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90550751626725",
+    "latitude" : "40.85444390420279",
+    "human_address" : "{\"address\":\"2100 WALTON AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10453\"}"
+  }
+}
+, {
+  "buildingid" : "X028",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "9",
+  "name" : "P.S. 28",
+  "projdesc" : "EXTERIOR MASONRY/PARAPETS/FLOOD ELIMINATION",
+  "award" : "5016000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90357863607737",
+    "latitude" : "40.84796917302349",
+    "human_address" : "{\"address\":\"1861 ANTHONY AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10456\"}"
+  }
+}
+, {
+  "buildingid" : "K284",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "23",
+  "name" : "P.S. 284",
+  "projdesc" : "SWB-PARAPET-MASONRY/EXTERIOR MASONRY",
+  "award" : "5680000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90818838446248",
+    "latitude" : "40.66735004908563",
+    "human_address" : "{\"address\":\"213 OSBORN STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11212\"}"
+  }
+}
+, {
+  "buildingid" : "K289",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "17",
+  "name" : "P.S. 289",
+  "projdesc" : "WINDOW/CAFE MULTIPURPOSE RM UPG/MASONRY/PARAPET/PA",
+  "award" : "4440000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94240595654854",
+    "latitude" : "40.67477355898667",
+    "human_address" : "{\"address\":\"900 ST MARKS AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11213\"}"
+  }
+}
+, {
+  "buildingid" : "R029",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 29",
+  "projdesc" : "PARAPETS/EXT MASONRY/ROOFS",
+  "award" : "3826000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.11613224214713",
+    "latitude" : "40.61361168930647",
+    "human_address" : "{\"address\":\"1581 VICTORY BLVD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10314\"}"
+  }
+}
+, {
+  "buildingid" : "K003",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "13",
+  "name" : "P.S. 3",
+  "projdesc" : "PARAPETS/EXT MASONRY/ROOF/PLAYGROUND REDEVELOPMENT",
+  "award" : "4820800",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9554933572393",
+    "latitude" : "40.68262499957862",
+    "human_address" : "{\"address\":\"50 JEFFERSON AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11216\"}"
+  }
+}
+, {
+  "buildingid" : "M003",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "P.S. 3",
+  "projdesc" : "FLOORS/INTERIOR SPACES",
+  "award" : "3824000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.00641883360943",
+    "latitude" : "40.73261607852907",
+    "human_address" : "{\"address\":\"490 HUDSON STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10014\"}"
+  }
+}
+, {
+  "buildingid" : "R003",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 3",
+  "projdesc" : "LIGHTING FIXTURES",
+  "award" : "934104",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.21279962614892",
+    "latitude" : "40.52665926345466",
+    "human_address" : "{\"address\":\"80 GOFF AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10309\"}"
+  }
+}
+, {
+  "buildingid" : "K306",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "19",
+  "name" : "P.S. 306",
+  "projdesc" : "PLAYGROUND REDEVELOPMENT",
+  "award" : "1071501",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88669548652338",
+    "latitude" : "40.65614802525013",
+    "human_address" : "{\"address\":\"970 VERMONT STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11207\"}"
+  }
+}
+, {
+  "buildingid" : "K308",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "16",
+  "name" : "P.S. 308",
+  "projdesc" : "PAVED AREA-BLACKTOP & TCU",
+  "award" : "437000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93578222590314",
+    "latitude" : "40.6886393472372",
+    "human_address" : "{\"address\":\"616 QUINCY STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11221\"}"
+  }
+}
+, {
+  "buildingid" : "X122",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "P.S. 310 (@ X122)",
+  "projdesc" : "FY10 RESO A AUDITORIUM UPG",
+  "award" : "205000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90565533914132",
+    "latitude" : "40.873019134707036",
+    "human_address" : "{\"address\":\"260 KINGSBRIDGE RD\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10463\"}"
+  }
+}
+, {
+  "buildingid" : "K316",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "17",
+  "name" : "P.S. 316",
+  "projdesc" : "HOT WATER HEATER",
+  "award" : "375000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.96025809844292",
+    "latitude" : "40.67448517044413",
+    "human_address" : "{\"address\":\"750 CLASSON AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11238\"}"
+  }
+}
+, {
+  "buildingid" : "K032",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "15",
+  "name" : "P.S. 32",
+  "projdesc" : "FY11 RESO A LIBRARY UPGRADE",
+  "award" : "357960",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.99193273420018",
+    "latitude" : "40.680429275762485",
+    "human_address" : "{\"address\":\"317 HOYT STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11231\"}"
+  }
+}
+, {
+  "buildingid" : "X032",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "P.S. 32",
+  "projdesc" : "VINYL FLR/BOILER RM/CLIMATE CTRL/HEAT PLANT",
+  "award" : "15839000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88593877891165",
+    "latitude" : "40.85208555646217",
+    "human_address" : "{\"address\":\"690 183 STREET\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10458\"}"
+  }
+}
+, {
+  "buildingid" : "K329",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "21",
+  "name" : "P.S. 329",
+  "projdesc" : "WINDOWS/ROOFS",
+  "award" : "4659000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.99625853857127",
+    "latitude" : "40.5746069203897",
+    "human_address" : "{\"address\":\"2929 30 STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11212\"}"
+  }
+}
+, {
+  "buildingid" : "X033",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "P.S. 33",
+  "projdesc" : "GUTTERS, DOWNSPOUTS & DRAINGAGE/FLOOD/EXT MASONRY",
+  "award" : "2965000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90165549892143",
+    "latitude" : "40.86194912850306",
+    "human_address" : "{\"address\":\"2424 JEROME AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10468\"}"
+  }
+}
+, {
+  "buildingid" : "K034",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "14",
+  "name" : "P.S. 34",
+  "projdesc" : "ROOFS",
+  "award" : "1297000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94966946764082",
+    "latitude" : "40.72614326106391",
+    "human_address" : "{\"address\":\"131 NORMAN AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11222\"}"
+  }
+}
+, {
+  "buildingid" : "Q034",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "29",
+  "name" : "P.S. 34",
+  "projdesc" : "PLAYGROUND & TCU REMOVAL",
+  "award" : "1375500",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.74193729726841",
+    "latitude" : "40.721396964798146",
+    "human_address" : "{\"address\":\"104 12 SPRINGFIELD BLVD\",\"city\":\"QUEENS VILLAGE\",\"state\":\"NY\",\"zip\":\"11428\"}"
+  }
+}
+, {
+  "buildingid" : "M036",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "5",
+  "name" : "P.S. 36",
+  "projdesc" : "REINFORCE SUPPRT ELEMT/MASONRY/FLOOD/PARAPET/ ROOF",
+  "award" : "7179000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95760614504678",
+    "latitude" : "40.81034589186436",
+    "human_address" : "{\"address\":\"123 MORNINGSIDE DRIVE\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10027\"}"
+  }
+}
+, {
+  "buildingid" : "R036",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 36",
+  "projdesc" : "PARAPETS",
+  "award" : "617000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.18245006610681",
+    "latitude" : "40.54294395216458",
+    "human_address" : "{\"address\":\"255 IONIA AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10312\"}"
+  }
+}
+, {
+  "buildingid" : "Q037",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "29",
+  "name" : "P.S. 37",
+  "projdesc" : "FLOOD ELMNTN",
+  "award" : "4627000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.77530690169215",
+    "latitude" : "40.6769452621142",
+    "human_address" : "{\"address\":\"179 37 137 AVENUE\",\"city\":\"JAMAICA\",\"state\":\"NY\",\"zip\":\"11434\"}"
+  }
+}
+, {
+  "buildingid" : "K370",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "21",
+  "name" : "P.S. 370",
+  "projdesc" : "PLAYGROUND REDEVELOPMENT",
+  "award" : "2587000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.96958337858405",
+    "latitude" : "40.577497294548174",
+    "human_address" : "{\"address\":\"3000 1 STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11224\"}"
+  }
+}
+, {
+  "buildingid" : "K370",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "21",
+  "name" : "P.S. 370",
+  "projdesc" : "WINDOWS/FLOOD ELIMNTN/MASONRY/ROOFS/PARAPETS",
+  "award" : "6920000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.96958337858405",
+    "latitude" : "40.577497294548174",
+    "human_address" : "{\"address\":\"3000 1 STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11224\"}"
+  }
+}
+, {
+  "buildingid" : "R040",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 373 (SP ED) @R040",
+  "projdesc" : "ROOFS/PARAPETS",
+  "award" : "824000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.09531252948968",
+    "latitude" : "40.64071111953775",
+    "human_address" : "{\"address\":\"91 HENDERSON AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10301\"}"
+  }
+}
+, {
+  "buildingid" : "K384",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "32",
+  "name" : "P.S. 384",
+  "projdesc" : "LL 41/16 COMPLIANCE",
+  "award" : "275000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90500308262318",
+    "latitude" : "40.69009686200851",
+    "human_address" : "{\"address\":\"242 COOPER STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11221\"}"
+  }
+}
+, {
+  "buildingid" : "R004",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 4",
+  "projdesc" : "FY09 RESO A TECHNOLOGY",
+  "award" : "90290.18"
+}
+, {
+  "buildingid" : "Q040",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "P.S. 40",
+  "projdesc" : "CEC REQUEST-TOILETS STUDENTS",
+  "award" : "889000"
+}
+, {
+  "buildingid" : "Q040",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "P.S. 40",
+  "projdesc" : "EXTERIOR MASONRY/PARAPETS",
+  "award" : "2520000"
+}
+, {
+  "buildingid" : "Q040",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "P.S. 40",
+  "projdesc" : "PLAYGROUND REDEVELOPMENT",
+  "award" : "1424537"
+}
+, {
+  "buildingid" : "M041",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "P.S. 41",
+  "projdesc" : "SWB-EXTERIOR MASONRY/WINDOWS/AUD. CEILING/PARAPETS",
+  "award" : "3447868",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.99904466974961",
+    "latitude" : "40.735686525332646",
+    "human_address" : "{\"address\":\"116 11 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10011\"}"
+  }
+}
+, {
+  "buildingid" : "Q041",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "26",
+  "name" : "P.S. 41",
+  "projdesc" : "MASONRY SUPPORT REPAIR/PARAPETS",
+  "award" : "2564500",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.77481079967868",
+    "latitude" : "40.773606900238235",
+    "human_address" : "{\"address\":\"214 43 35 AVENUE\",\"city\":\"BAYSIDE\",\"state\":\"NY\",\"zip\":\"11261\"}"
+  }
+}
+, {
+  "buildingid" : "R041",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 41",
+  "projdesc" : "FY10 RESO A PA SYSTEMS",
+  "award" : "448000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.10928336025026",
+    "latitude" : "40.574024158045525",
+    "human_address" : "{\"address\":\"216 CLAWSON STREET\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10306\"}"
+  }
+}
+, {
+  "buildingid" : "R045",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 45",
+  "projdesc" : "TOILETS STUDENTS",
+  "award" : "999999",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.10718417740732",
+    "latitude" : "40.62863428073003",
+    "human_address" : "{\"address\":\"58 LAWRENCE AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10310\"}"
+  }
+}
+, {
+  "buildingid" : "R045",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 45",
+  "projdesc" : "WATER PENETRATION",
+  "award" : "579900",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.10718417740732",
+    "latitude" : "40.62863428073003",
+    "human_address" : "{\"address\":\"58 LAWRENCE AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10310\"}"
+  }
+}
+, {
+  "buildingid" : "K046",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "13",
+  "name" : "P.S. 46",
+  "projdesc" : "SCIENCE DEMO ROOM",
+  "award" : "376999",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9711875089949",
+    "latitude" : "40.694634881525445",
+    "human_address" : "{\"address\":\"100 CLERMONT AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11205\"}"
+  }
+}
+, {
+  "buildingid" : "M046",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "5",
+  "name" : "P.S. 46",
+  "projdesc" : "SCIENCE DEMO LAB",
+  "award" : "512000"
+}
+, {
+  "buildingid" : "Q046",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "26",
+  "name" : "P.S. 46",
+  "projdesc" : "CORRIDOR SPACES",
+  "award" : "290000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.75790275560763",
+    "latitude" : "40.745924680379744",
+    "human_address" : "{\"address\":\"64 45 218TH STREET\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11364\"}"
+  }
+}
+, {
+  "buildingid" : "K048",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "20",
+  "name" : "P.S. 48",
+  "projdesc" : "EXT MASONRY/PARAPETS/ROOFS",
+  "award" : "5315000"
+}
+, {
+  "buildingid" : "Q050",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "P.S. 50",
+  "projdesc" : "SWB EXT MASONRY/PARAPETS/ROOFS",
+  "award" : "1900000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.80979665579099",
+    "latitude" : "40.70119264912154",
+    "human_address" : "{\"address\":\"143 26 101 AVENUE\",\"city\":\"JAMAICA\",\"state\":\"NY\",\"zip\":\"11435\"}"
+  }
+}
+, {
+  "buildingid" : "R050",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 50",
+  "projdesc" : "BOILER REPLACEMENT/CLIMATE CONTROL",
+  "award" : "3330000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.12474473444865",
+    "latitude" : "40.561729222740695",
+    "human_address" : "{\"address\":\"200 ADELAIDE AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10306\"}"
+  }
+}
+, {
+  "buildingid" : "X050",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "12",
+  "name" : "P.S. 50",
+  "projdesc" : "FLOOD ELIMINATION",
+  "award" : "818000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88769223705626",
+    "latitude" : "40.83380386816254",
+    "human_address" : "{\"address\":\"1550 VYSE AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10460\"}"
+  }
+}
+, {
+  "buildingid" : "M050",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "4",
+  "name" : "P.S. 50 (UDC & ECF)",
+  "projdesc" : "PLANYC BOILER CONVERSION/PLANYC CLIMATE CONTROL",
+  "award" : "3174000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94222449721103",
+    "latitude" : "40.78556522081211",
+    "human_address" : "{\"address\":\"433 100 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10029\"}"
+  }
+}
+, {
+  "buildingid" : "Q051",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "27",
+  "name" : "P.S. 51 (ECC)",
+  "projdesc" : "EXTERIOR MASONRY",
+  "award" : "1023000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.84031024991805",
+    "latitude" : "40.69637041236467",
+    "human_address" : "{\"address\":\"87 45 117TH STREET\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11418\"}"
+  }
+}
+, {
+  "buildingid" : "Q052",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "29",
+  "name" : "P.S. 52",
+  "projdesc" : "SWB EXT MASONRY",
+  "award" : "2700000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.77530690169215",
+    "latitude" : "40.6769452621142",
+    "human_address" : "{\"address\":\"178 37 146 TERRACE\",\"city\":\"SPRINGFIELD GARDENS\",\"state\":\"NY\",\"zip\":\"11434\"}"
+  }
+}
+, {
+  "buildingid" : "R053",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 53",
+  "projdesc" : "FENCING/PAVED AREAS-CONCRETE",
+  "award" : "675000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.13710643405284",
+    "latitude" : "40.55253899268856",
+    "human_address" : "{\"address\":\"330 DURANT AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10308\"}"
+  }
+}
+, {
+  "buildingid" : "R054",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 54",
+  "projdesc" : "PARAPETS/ROOFS/WINDOWS/EXT MASONRY",
+  "award" : "5847000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.13792964309168",
+    "latitude" : "40.60321556338597",
+    "human_address" : "{\"address\":\"1060 WILLOWBROOK RD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10314\"}"
+  }
+}
+, {
+  "buildingid" : "Q055",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "P.S. 55",
+  "projdesc" : "SWB-BULGING MASONRY/PARAPETS",
+  "award" : "4795000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.82288833053201",
+    "latitude" : "40.68871379040917",
+    "human_address" : "{\"address\":\"131 10 97 AVENUE\",\"city\":\"RICHMOND HILL\",\"state\":\"NY\",\"zip\":\"11419\"}"
+  }
+}
+, {
+  "buildingid" : "R055",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 55",
+  "projdesc" : "ROOFS/CEC REQUEST-MASONRY/FLOOD ELMNTN/PARAPETS",
+  "award" : "1890000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.16332659953605",
+    "latitude" : "40.53686781464157",
+    "human_address" : "{\"address\":\"54 OSBORNE STREET\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10312\"}"
+  }
+}
+, {
+  "buildingid" : "X055",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "9",
+  "name" : "P.S. 55",
+  "projdesc" : "EXTERIOR MASONRY/PARAPETS",
+  "award" : "1285000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90461113077222",
+    "latitude" : "40.836276563944345",
+    "human_address" : "{\"address\":\"450 SAINT PAUL'S PLACE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10456\"}"
+  }
+}
+, {
+  "buildingid" : "K056",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "13",
+  "name" : "P.S. 56",
+  "projdesc" : "PLANYC CLIMATE/BOILER CONTROL",
+  "award" : "5240000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.960643681102",
+    "latitude" : "40.68503684353989",
+    "human_address" : "{\"address\":\"170 GATES AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11238\"}"
+  }
+}
+, {
+  "buildingid" : "R057",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 57",
+  "projdesc" : "PLANYC PLAYGROUND",
+  "award" : "613715.9",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.08283106498078",
+    "latitude" : "40.61136129612238",
+    "human_address" : "{\"address\":\"140 PALMA DRIVE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10304\"}"
+  }
+}
+, {
+  "buildingid" : "K006",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "17",
+  "name" : "P.S. 6 (PS 600B)",
+  "projdesc" : "BLDG MANAGEMENT SYSTEM",
+  "award" : "2269000"
+}
+, {
+  "buildingid" : "K006",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "17",
+  "name" : "P.S. 6 (PS 600B)",
+  "projdesc" : "EXT MASONRY/ROOFS",
+  "award" : "773000"
+}
+, {
+  "buildingid" : "X060",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "8",
+  "name" : "P.S. 60",
+  "projdesc" : "FLOOD/EXT MASONRY/CEC REQUEST-PARAPET/ROOFS/WINDOW",
+  "award" : "14619000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.89313106784448",
+    "latitude" : "40.82552621616202",
+    "human_address" : "{\"address\":\"888 REV J A POLITE AVE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10459\"}"
+  }
+}
+, {
+  "buildingid" : "X061",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "12",
+  "name" : "P.S. 61",
+  "projdesc" : "FIRE ALARM",
+  "award" : "349119",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.89295310872916",
+    "latitude" : "40.836569959473785",
+    "human_address" : "{\"address\":\"1550 CROTONA PARK\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10460\"}"
+  }
+}
+, {
+  "buildingid" : "X061",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "12",
+  "name" : "P.S. 61",
+  "projdesc" : "IP SURVEILLANCE CAMERAS",
+  "award" : "1528000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.89295310872916",
+    "latitude" : "40.836569959473785",
+    "human_address" : "{\"address\":\"1550 CROTONA PARK\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10460\"}"
+  }
+}
+, {
+  "buildingid" : "X064",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "9",
+  "name" : "P.S. 64",
+  "projdesc" : "BATHROOMS 4TH & 5TH FLR",
+  "award" : "508499",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91558081775857",
+    "latitude" : "40.8401115358764",
+    "human_address" : "{\"address\":\"1425 WALTON AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10452\"}"
+  }
+}
+, {
+  "buildingid" : "Q066",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "27",
+  "name" : "P.S. 66",
+  "projdesc" : "FLOOD ELIMINATION/EXT MASONRY/PARAPETS",
+  "award" : "1110000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.84031024991805",
+    "latitude" : "40.69637041236467",
+    "human_address" : "{\"address\":\"85 11 102 STREET\",\"city\":\"RICHMOND HILL\",\"state\":\"NY\",\"zip\":\"11418\"}"
+  }
+}
+, {
+  "buildingid" : "M066",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "P.S. 66 (RICHARD R GREEN)",
+  "projdesc" : "CAFE MULTIPURPOSE ROOM",
+  "award" : "482000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.02858656018857",
+    "latitude" : "40.62102637693336",
+    "human_address" : "{\"address\":\"421 88 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10028\"}"
+  }
+}
+, {
+  "buildingid" : "X068",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "11",
+  "name" : "P.S. 68",
+  "projdesc" : "ELEVATORS & ESCALATORS",
+  "award" : "688000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.83837769297637",
+    "latitude" : "40.89141479468151",
+    "human_address" : "{\"address\":\"4011 MONTICELLO AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10466\"}"
+  }
+}
+, {
+  "buildingid" : "R069",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 69",
+  "projdesc" : "FENCING",
+  "award" : "234000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.15650379993006",
+    "latitude" : "40.59169714382341",
+    "human_address" : "{\"address\":\"144 KEATING PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10314\"}"
+  }
+}
+, {
+  "buildingid" : "X007",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "P.S. 7",
+  "projdesc" : "ROOFS/EXT MASONRY/PARAPETS",
+  "award" : "4700000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90547390792568",
+    "latitude" : "40.881013909978904",
+    "human_address" : "{\"address\":\"3201 KINGSBRIDGE AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10463\"}"
+  }
+}
+, {
+  "buildingid" : "Q071",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "24",
+  "name" : "P.S. 71",
+  "projdesc" : "FLOOD ELIMINATION",
+  "award" : "408990",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88334858436963",
+    "latitude" : "40.70122489161548",
+    "human_address" : "{\"address\":\"62 85 FOREST AVENUE\",\"city\":\"RIDGEWOOD\",\"state\":\"NY\",\"zip\":\"11385\"}"
+  }
+}
+, {
+  "buildingid" : "X072",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "8",
+  "name" : "P.S. 72",
+  "projdesc" : "BATHROOM",
+  "award" : "668000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.81850425419442",
+    "latitude" : "40.822539080023574",
+    "human_address" : "{\"address\":\"2951 DEWEY AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10465\"}"
+  }
+}
+, {
+  "buildingid" : "K722",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "21",
+  "name" : "P.S. 721 OTC",
+  "projdesc" : "TILTED FIELD LIGHTING",
+  "award" : "1396800",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.97331147204676",
+    "latitude" : "40.596939623165156",
+    "human_address" : "{\"address\":\"64 AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11223\"}"
+  }
+}
+, {
+  "buildingid" : "M641",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "P.S. 721 OTC SP ED",
+  "projdesc" : "FLOOD ELIMINATION",
+  "award" : "1897000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.00542114697957",
+    "latitude" : "40.72862785368122",
+    "human_address" : "{\"address\":\"250 HOUSTON ST\",\"city\":\"MANHATTAN\",\"state\":\"NY\",\"zip\":\"10014\"}"
+  }
+}
+, {
+  "buildingid" : "K073",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "23",
+  "name" : "P.S. 73",
+  "projdesc" : "SWB EXT MSNRY/SWB PARAPETS/SWB FLOOD/ROOFS",
+  "award" : "3084000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91089377023927",
+    "latitude" : "40.68032732647815",
+    "human_address" : "{\"address\":\"251 MCDOUGAL STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11233\"}"
+  }
+}
+, {
+  "buildingid" : "X075",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "8",
+  "name" : "P.S. 75",
+  "projdesc" : "ROOFS/EXT MASONRY",
+  "award" : "2549000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88942113898915",
+    "latitude" : "40.822818392634325",
+    "human_address" : "{\"address\":\"984 FAILE STREET\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10459\"}"
+  }
+}
+, {
+  "buildingid" : "X155",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "7",
+  "name" : "P.S. 754 (@X155)",
+  "projdesc" : "CAFE/MULTIPURPOSE RM UPGRADE/FLOOD ELIMINATION",
+  "award" : "1230000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90975689502312",
+    "latitude" : "40.81117582303449",
+    "human_address" : "{\"address\":\"470 JACKSON AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10455\"}"
+  }
+}
+, {
+  "buildingid" : "X155",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "7",
+  "name" : "P.S. 754 (@X155)",
+  "projdesc" : "FY11 REOS A LIBRARY UPGRADE",
+  "award" : "299155",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90975689502312",
+    "latitude" : "40.81117582303449",
+    "human_address" : "{\"address\":\"470 JACKSON AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10455\"}"
+  }
+}
+, {
+  "buildingid" : "Q076",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "30",
+  "name" : "P.S. 76",
+  "projdesc" : "EXTERIOR MASONRY/PARAPETS",
+  "award" : "2284875",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91327185810974",
+    "latitude" : "40.76286893025696",
+    "human_address" : "{\"address\":\"36 36 10 STREET\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11103\"}"
+  }
+}
+, {
+  "buildingid" : "X076",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "11",
+  "name" : "P.S. 76",
+  "projdesc" : "MASONRY/PARAPETS/FLOOD ELMNTN/ROOFS",
+  "award" : "4042000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.8614028579785",
+    "latitude" : "40.86957454109854",
+    "human_address" : "{\"address\":\"900 ADEE AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10469\"}"
+  }
+}
+, {
+  "buildingid" : "X078",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "11",
+  "name" : "P.S. 78",
+  "projdesc" : "AUDITORIUM UPGRADE/STUDENT TOILETS",
+  "award" : "715000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.8513380848076",
+    "latitude" : "40.87847023359842",
+    "human_address" : "{\"address\":\"1400 NEEDHAM AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10469\"}"
+  }
+}
+, {
+  "buildingid" : "Q079",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "25",
+  "name" : "P.S. 79",
+  "projdesc" : "ELEC SYSTEMS",
+  "award" : "258100",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.81123206101074",
+    "latitude" : "40.78628404147537",
+    "human_address" : "{\"address\":\"147 27 15 DRIVE\",\"city\":\"WHITESTONE\",\"state\":\"NY\",\"zip\":\"11357\"}"
+  }
+}
+, {
+  "buildingid" : "R008",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 8",
+  "projdesc" : "ELEC SYSTEM",
+  "award" : "790000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.1517569152093",
+    "latitude" : "40.54764073027023",
+    "human_address" : "{\"address\":\"112 LINDENWOOD ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10308\"}"
+  }
+}
+, {
+  "buildingid" : "R880",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "P.S. 80 (PETRIDES BLDG B)",
+  "projdesc" : "WINDOWS/EXT MASONRY",
+  "award" : "3228000"
+}
+, {
+  "buildingid" : "Q081",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "24",
+  "name" : "P.S. 81",
+  "projdesc" : "FLOOD ELIM/STRUCTURAL:FLOOR SYS/EXT MASONRY",
+  "award" : "1274800",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91225035614077",
+    "latitude" : "40.70373293561221",
+    "human_address" : "{\"address\":\"559 CYPRESS AVENUE\",\"city\":\"RIDGEWOOD\",\"state\":\"NY\",\"zip\":\"11237\"}"
+  }
+}
+, {
+  "buildingid" : "X081",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "P.S. 81",
+  "projdesc" : "FLOOD ELIMINATION",
+  "award" : "474000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90520839316682",
+    "latitude" : "40.903559546831026",
+    "human_address" : "{\"address\":\"5550 RIVERDALE AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10471\"}"
+  }
+}
+, {
+  "buildingid" : "Q848",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "24",
+  "name" : "P.S. 81 ANNEX (@Q848)",
+  "projdesc" : "FLOOD ELIMINATION/EXT MASONRY",
+  "award" : "2390270"
+}
+, {
+  "buildingid" : "Q811",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "26",
+  "name" : "P.S. 811 (OL 187 - CMCH)",
+  "projdesc" : "LL 41/16 COMPLIANCE",
+  "award" : "954000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.73430017711144",
+    "latitude" : "40.759074216601846",
+    "human_address" : "{\"address\":\"61 25 MARATHON PKWY\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11362\"}"
+  }
+}
+, {
+  "buildingid" : "Q811",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "26",
+  "name" : "P.S. 811 (OL 187 - CMCH)",
+  "projdesc" : "LOW VOLTAGE",
+  "award" : "560000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.73430017711144",
+    "latitude" : "40.759074216601846",
+    "human_address" : "{\"address\":\"61 25 MARATHON PKWY\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11362\"}"
+  }
+}
+, {
+  "buildingid" : "M841",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "3",
+  "name" : "P.S. 811(@ M841)",
+  "projdesc" : "WORK REQUIRED TO OBTAIN C OF O",
+  "award" : "1880750",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.96653900057436",
+    "latitude" : "40.78362556816552",
+    "human_address" : "{\"address\":\"466 END AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10024\"}"
+  }
+}
+, {
+  "buildingid" : "Q082",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "P.S. 82",
+  "projdesc" : "WATER PENETRATION",
+  "award" : "1120000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.80979665579099",
+    "latitude" : "40.70119264912154",
+    "human_address" : "{\"address\":\"88 02 144 STREET\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11435\"}"
+  }
+}
+, {
+  "buildingid" : "X083",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "11",
+  "name" : "P.S. 83",
+  "projdesc" : "ACCESSIBILITY",
+  "award" : "3377000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.85933122663833",
+    "latitude" : "40.849332468676785",
+    "human_address" : "{\"address\":\"950 RHINELANDER AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10462\"}"
+  }
+}
+, {
+  "buildingid" : "Q085",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "30",
+  "name" : "P.S. 85",
+  "projdesc" : "FLOOD ELMNTN/ROOFS/EXT MASONRY/PARAPETS",
+  "award" : "3111000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.90960650023976",
+    "latitude" : "40.780092072491186",
+    "human_address" : "{\"address\":\"23 70 31 STREET\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11105\"}"
+  }
+}
+, {
+  "buildingid" : "X085",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "P.S. 85",
+  "projdesc" : "RETAINING WALL",
+  "award" : "1596000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.89472052099663",
+    "latitude" : "40.859331900138066",
+    "human_address" : "{\"address\":\"2400 MARION AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10458\"}"
+  }
+}
+, {
+  "buildingid" : "K086",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "32",
+  "name" : "P.S. 86",
+  "projdesc" : "FLOOD ELMNTN/EXT MASONRY",
+  "award" : "4269000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91749723727719",
+    "latitude" : "40.7007452458598",
+    "human_address" : "{\"address\":\"220 IRVING AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11237\"}"
+  }
+}
+, {
+  "buildingid" : "X086",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "P.S. 86",
+  "projdesc" : "ELEVATORS & ESCALATORS",
+  "award" : "747400",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.89880422371779",
+    "latitude" : "40.869715575827065",
+    "human_address" : "{\"address\":\"2756 RESERVOIR AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10468\"}"
+  }
+}
+, {
+  "buildingid" : "K009",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "13",
+  "name" : "P.S. 9",
+  "projdesc" : "PAVED AREA - BLACKTOP",
+  "award" : "974000"
+}
+, {
+  "buildingid" : "X009",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "P.S. 9 (OLD 115)",
+  "projdesc" : "ACCESSIBILITY",
+  "award" : "6177000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.89936166242526",
+    "latitude" : "40.8571875830873",
+    "human_address" : "{\"address\":\"230 183 STREET\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10458\"}"
+  }
+}
+, {
+  "buildingid" : "Q090",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "27",
+  "name" : "P.S. 90",
+  "projdesc" : "ELEC SYSTEMS",
+  "award" : "778000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.84031024991805",
+    "latitude" : "40.69637041236467",
+    "human_address" : "{\"address\":\"86 50 109 STREET\",\"city\":\"RICHMOND HILL\",\"state\":\"NY\",\"zip\":\"11418\"}"
+  }
+}
+, {
+  "buildingid" : "Q090",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "27",
+  "name" : "P.S. 90",
+  "projdesc" : "SWB - EMERGENCY MASONRY REPAIRS/PARAPETS",
+  "award" : "3769000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.84031024991805",
+    "latitude" : "40.69637041236467",
+    "human_address" : "{\"address\":\"86 50 109 STREET\",\"city\":\"RICHMOND HILL\",\"state\":\"NY\",\"zip\":\"11418\"}"
+  }
+}
+, {
+  "buildingid" : "X090",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "9",
+  "name" : "P.S. 90",
+  "projdesc" : "EXTERIOR MASONRY/RETAINING WALLS",
+  "award" : "1857000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91794566527413",
+    "latitude" : "40.83197402670032",
+    "human_address" : "{\"address\":\"1116 SHERIDAN AVENUE\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10456\"}"
+  }
+}
+, {
+  "buildingid" : "K093",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "13",
+  "name" : "P.S. 93",
+  "projdesc" : "FLOORS",
+  "award" : "1748375",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94682098403624",
+    "latitude" : "40.679147761017056",
+    "human_address" : "{\"address\":\"31 NEW YORK AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11216\"}"
+  }
+}
+, {
+  "buildingid" : "K094",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "15",
+  "name" : "P.S. 94",
+  "projdesc" : "PLANYC PLAYGROUND",
+  "award" : "264500",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.0082060957207",
+    "latitude" : "40.64372817395559",
+    "human_address" : "{\"address\":\"5010 6TH AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11220\"}"
+  }
+}
+, {
+  "buildingid" : "K095",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "21",
+  "name" : "P.S. 95",
+  "projdesc" : "EXT MASONRY/WINDOWS",
+  "award" : "3373000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.97512954825021",
+    "latitude" : "40.595683557953876",
+    "human_address" : "{\"address\":\"345 VAN SICKLEN STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11223\"}"
+  }
+}
+, {
+  "buildingid" : "M271",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "P.S./I.S. 217 ROOSEVELT ISLAND",
+  "projdesc" : "ROOFS/EXT MASONRY/WINDOWS/PARAPETS",
+  "award" : "8444000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94703392787746",
+    "latitude" : "40.76494453865442",
+    "human_address" : "{\"address\":\"645 MAIN STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10044\"}"
+  }
+}
+, {
+  "buildingid" : "M495",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "4",
+  "name" : "PARK EAST ALT HS",
+  "projdesc" : "FY10 RESO A SCIENCE LAB",
+  "award" : "759354",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94403228106489",
+    "latitude" : "40.79161072055837",
+    "human_address" : "{\"address\":\"230 34 EAST 105 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10029\"}"
+  }
+}
+, {
+  "buildingid" : "M495",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "4",
+  "name" : "PARK EAST ALT HS",
+  "projdesc" : "WATER DAMAGE & MASONRY/ROOF/PARAPETS/WINDOWS",
+  "award" : "2887000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.94403228106489",
+    "latitude" : "40.79161072055837",
+    "human_address" : "{\"address\":\"230 34 EAST 105 STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10029\"}"
+  }
+}
+, {
+  "buildingid" : "Q102",
+  "consttype" : "CAP",
+  "boro" : "Q",
+  "geo_dist" : "24",
+  "name" : "PS 102 Addition",
+  "projdesc" : "Addition",
+  "award" : "56222000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.87835115518163",
+    "latitude" : "40.73871040256307",
+    "human_address" : "{\"address\":\"55 24 Van Horn St\",\"city\":\"Elmhurst\",\"state\":\"NY\",\"zip\":\"11373\"}"
+  }
+}
+, {
+  "buildingid" : "Q013",
+  "consttype" : "CAP",
+  "boro" : "Q",
+  "geo_dist" : "24",
+  "name" : "PS 13 Addition",
+  "projdesc" : "Addition",
+  "award" : "41250000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.87835115518163",
+    "latitude" : "40.73871040256307",
+    "human_address" : "{\"address\":\"55 01 94th St\",\"city\":\"Elmhurst\",\"state\":\"NY\",\"zip\":\"11373\"}"
+  }
+}
+, {
+  "buildingid" : "M130",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "PS 130",
+  "projdesc" : "SWB-WINDOWS",
+  "award" : "1327000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.99859121725036",
+    "latitude" : "40.7186139475248",
+    "human_address" : "{\"address\":\"143 BAXTER STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10013\"}"
+  }
+}
+, {
+  "buildingid" : "K317",
+  "consttype" : "CAP",
+  "boro" : "K",
+  "geo_dist" : "13",
+  "name" : "PS 133",
+  "projdesc" : "New",
+  "award" : "66224000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.98070466529857",
+    "latitude" : "40.68047819552629",
+    "human_address" : "{\"address\":\"610 Baltic St\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}"
+  }
+}
+, {
+  "buildingid" : "Q143",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "24",
+  "name" : "PS 143",
+  "projdesc" : "FY10 RESO A PA SYSTEM",
+  "award" : "189000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.85304068857687",
+    "latitude" : "40.749678220373596",
+    "human_address" : "{\"address\":\"34 74 113 STREET\",\"city\":\"CORONA\",\"state\":\"NY\",\"zip\":\"11368\"}"
+  }
+}
+, {
+  "buildingid" : "K160",
+  "consttype" : "CAP",
+  "boro" : "K",
+  "geo_dist" : "20",
+  "name" : "PS 160 Annex",
+  "projdesc" : "Addition",
+  "award" : "38772000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.99911127943953",
+    "latitude" : "40.637367859169615",
+    "human_address" : "{\"address\":\"5105 Fort Hamilton Pkwy\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11219\"}"
+  }
+}
+, {
+  "buildingid" : "X136",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "12",
+  "name" : "PS 186 COMPUTER LAB",
+  "projdesc" : "FLOOD ELIMINATION/EXTERIOR RAMPS & CANOPIES",
+  "award" : "968700",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.89748338090764",
+    "latitude" : "40.8318681052202",
+    "human_address" : "{\"address\":\"750 JENNINGS STREET\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10459\"}"
+  }
+}
+, {
+  "buildingid" : "Q196",
+  "consttype" : "CAP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "PS 196 Addition",
+  "projdesc" : "Addition",
+  "award" : "29800000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.84628429608335",
+    "latitude" : "40.720707263029794",
+    "human_address" : "{\"address\":\"71 25 113th St\",\"city\":\"Forest Hills\",\"state\":\"NY\",\"zip\":\"11375\"}"
+  }
+}
+, {
+  "buildingid" : "K264",
+  "consttype" : "CAP",
+  "boro" : "K",
+  "geo_dist" : "20",
+  "name" : "PS 264",
+  "projdesc" : "New",
+  "award" : "39814903",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.02907223284222",
+    "latitude" : "40.62112765715576",
+    "human_address" : "{\"address\":\"8818 4th Ave\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11209\"}"
+  }
+}
+, {
+  "buildingid" : "Q280",
+  "consttype" : "CAP",
+  "boro" : "Q",
+  "geo_dist" : "30",
+  "name" : "PS 280",
+  "projdesc" : "Lease",
+  "award" : "6230000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88361254528269",
+    "latitude" : "40.75163073936716",
+    "human_address" : "{\"address\":\"34 20 94th St\",\"city\":\"Jackson Heights\",\"state\":\"NY\",\"zip\":\"11372\"}"
+  }
+}
+, {
+  "buildingid" : "Q280",
+  "consttype" : "CAP",
+  "boro" : "Q",
+  "geo_dist" : "30",
+  "name" : "PS 280",
+  "projdesc" : "Lease",
+  "award" : "7250000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88361254528269",
+    "latitude" : "40.75163073936716",
+    "human_address" : "{\"address\":\"34 20 94th St\",\"city\":\"Jackson Heights\",\"state\":\"NY\",\"zip\":\"11372\"}"
+  }
+}
+, {
+  "buildingid" : "Q029",
+  "consttype" : "CAP",
+  "boro" : "Q",
+  "geo_dist" : "25",
+  "name" : "PS 29 Addition",
+  "projdesc" : "Addition",
+  "award" : "20180000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.84181070040347",
+    "latitude" : "40.7849280967543",
+    "human_address" : "{\"address\":\"125 10 23rd Ave\",\"city\":\"College Point\",\"state\":\"NY\",\"zip\":\"11356\"}"
+  }
+}
+, {
+  "buildingid" : "Q290",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "24",
+  "name" : "PS 290",
+  "projdesc" : "DEMOLITION FOR PS 290",
+  "award" : "3370000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88334858436963",
+    "latitude" : "40.70122489161548",
+    "human_address" : "{\"address\":\"55 20 METROPOLITAN AVE\",\"city\":\"RIDGEWOOD\",\"state\":\"NY\",\"zip\":\"11385\"}"
+  }
+}
+, {
+  "buildingid" : "X292",
+  "consttype" : "CAP",
+  "boro" : "X",
+  "geo_dist" : "11",
+  "name" : "PS 292",
+  "projdesc" : "New",
+  "award" : "31927000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.86385184249058",
+    "latitude" : "40.85441144971648",
+    "human_address" : "{\"address\":\"800 Lydig Ave\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10462\"}"
+  }
+}
+, {
+  "buildingid" : "K310",
+  "consttype" : "CAP",
+  "boro" : "K",
+  "geo_dist" : "20",
+  "name" : "PS 310",
+  "projdesc" : "New",
+  "award" : "26400000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.00762713591367",
+    "latitude" : "40.632432204151364",
+    "human_address" : "{\"address\":\"942 62nd St\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11219\"}"
+  }
+}
+, {
+  "buildingid" : "K331",
+  "consttype" : "CAP",
+  "boro" : "K",
+  "geo_dist" : "20",
+  "name" : "PS 331",
+  "projdesc" : "New",
+  "award" : "51133300",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.02392108137985",
+    "latitude" : "40.633713521609366",
+    "human_address" : "{\"address\":\"7002 4th Ave\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11209\"}"
+  }
+}
+, {
+  "buildingid" : "Q198",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "27",
+  "name" : "PS 333 @ 198",
+  "projdesc" : "SCIENCE DEMO ROOM UPGRADE",
+  "award" : "670000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.79540208463845",
+    "latitude" : "40.593133885620375",
+    "human_address" : "{\"address\":\"3 65 BEACH 56 STREET\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11692\"}"
+  }
+}
+, {
+  "buildingid" : "Q042",
+  "consttype" : "CAP",
+  "boro" : "Q",
+  "geo_dist" : "27",
+  "name" : "PS 42 Addition",
+  "projdesc" : "Addition",
+  "award" : "43065000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.79529882397365",
+    "latitude" : "40.59475372321819",
+    "human_address" : "{\"address\":\"488 Beach 66th St\",\"city\":\"Arverne\",\"state\":\"NY\",\"zip\":\"11692\"}"
+  }
+}
+, {
+  "buildingid" : "Q043",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "27",
+  "name" : "PS 43",
+  "projdesc" : "FIRE ALARM SYSTEM",
+  "award" : "1982000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.76182654029463",
+    "latitude" : "40.594515128003",
+    "human_address" : "{\"address\":\"160 BEACH 29TH STREET\",\"city\":\"ROCKAWAY\",\"state\":\"NY\",\"zip\":\"11691\"}"
+  }
+}
+, {
+  "buildingid" : "M338",
+  "consttype" : "CAP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "PS 51",
+  "projdesc" : "New",
+  "award" : "54730000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.99547864190042",
+    "latitude" : "40.761366217679694",
+    "human_address" : "{\"address\":\"525 44th St\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10036\"}"
+  }
+}
+, {
+  "buildingid" : "R071",
+  "consttype" : "CAP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "PS 71",
+  "projdesc" : "New",
+  "award" : "53450000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.09118595249046",
+    "latitude" : "40.60412964758937",
+    "human_address" : "{\"address\":\"1050 Targee St\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10304\"}"
+  }
+}
+, {
+  "buildingid" : "K008",
+  "consttype" : "CAP",
+  "boro" : "K",
+  "geo_dist" : "13",
+  "name" : "PS 8 Addition",
+  "projdesc" : "Addition",
+  "award" : "21230000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9932378538064",
+    "latitude" : "40.700668802148385",
+    "human_address" : "{\"address\":\"37 Hicks St\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}"
+  }
+}
+, {
+  "buildingid" : "M916",
+  "consttype" : "CAP",
+  "boro" : "M",
+  "geo_dist" : "5",
+  "name" : "PS 916",
+  "projdesc" : "Lease",
+  "award" : "0",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.95327141286555",
+    "latitude" : "40.81245030541294",
+    "human_address" : "{\"address\":\"168 Morningside Ave\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10027\"}"
+  }
+}
+, {
+  "buildingid" : "X177",
+  "consttype" : "CAP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "PS/IS 177",
+  "projdesc" : "New",
+  "award" : "48888000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.8752514350975",
+    "latitude" : "40.87277450072955",
+    "human_address" : "{\"address\":\"3177 Webster Ave\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10467\"}"
+  }
+}
+, {
+  "buildingid" : "Q277",
+  "consttype" : "CAP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "PS/IS 277",
+  "projdesc" : "New",
+  "award" : "47135000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.79282099978928",
+    "latitude" : "40.71311535449007",
+    "human_address" : "{\"address\":\"153 27 88th Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"11432\"}"
+  }
+}
+, {
+  "buildingid" : "M281",
+  "consttype" : "CAP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "PS/IS 281",
+  "projdesc" : "New",
+  "award" : "47580000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.97273509303172",
+    "latitude" : "40.74436150165521",
+    "human_address" : "{\"address\":\"425 35th St\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10016\"}"
+  }
+}
+, {
+  "buildingid" : "Q312",
+  "consttype" : "CAP",
+  "boro" : "Q",
+  "geo_dist" : "30",
+  "name" : "PS/IS 312",
+  "projdesc" : "New",
+  "award" : "47820000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225",
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"46 08 5th St\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"11101\"}"
+  }
+}
+, {
+  "buildingid" : "X784",
+  "consttype" : "CAP",
+  "boro" : "X",
+  "geo_dist" : "11",
+  "name" : "PS/IS 784",
+  "projdesc" : "New",
+  "award" : "0",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.84367515955307",
+    "latitude" : "40.85710649548991",
+    "human_address" : "{\"address\":\"1500 Pelham Pkwy\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10461\"}"
+  }
+}
+, {
+  "buildingid" : "K990",
+  "consttype" : "CAP",
+  "boro" : "K",
+  "geo_dist" : "15",
+  "name" : "Pave Charter School",
+  "projdesc" : "New",
+  "award" : "25933333",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.00338737261256",
+    "latitude" : "40.67592711246962",
+    "human_address" : "{\"address\":\"732 Henry St\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11231\"}"
+  }
+}
+, {
+  "buildingid" : "Q475",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "27",
+  "name" : "RICHMOND HILL HS",
+  "projdesc" : "SWB - EXT MASONRY/WINDOWS/ROOFS",
+  "award" : "9333000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.84031024991805",
+    "latitude" : "40.69637041236467",
+    "human_address" : "{\"address\":\"89 30 114 STREET\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11418\"}"
+  }
+}
+, {
+  "buildingid" : "K655",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "15",
+  "name" : "SARAH J HALE VOCATIONAL HS",
+  "projdesc" : "ACCESSIBILITY/SAFETY",
+  "award" : "2450000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.98061564042008",
+    "latitude" : "40.68371105568558",
+    "human_address" : "{\"address\":\"345 DEAN STREET\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11217\"}"
+  }
+}
+, {
+  "buildingid" : "K218",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "19",
+  "name" : "SCH FOR CLASSICS:ACAD OF THINK",
+  "projdesc" : "NEW SCIENCE LAB SUITE",
+  "award" : "845000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.8742292684109",
+    "latitude" : "40.67070199017694",
+    "human_address" : "{\"address\":\"370 FOUNTAIN AVENUE\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11208\"}"
+  }
+}
+, {
+  "buildingid" : "M660",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "SCHOOL OF THE FUTURE @MD BACON",
+  "projdesc" : "FLOOD ELIMINATION",
+  "award" : "618000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.98552809234425",
+    "latitude" : "40.73900208799275",
+    "human_address" : "{\"address\":\"127 22 STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10010\"}"
+  }
+}
+, {
+  "buildingid" : "Q751",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "30",
+  "name" : "SCHOOL SAFETY PARKING LOT",
+  "projdesc" : "SCHOOL SAFETY PARKING LOT",
+  "award" : "2648000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.93866902925225",
+    "latitude" : "40.74570244980828",
+    "human_address" : "{\"address\":\"43 30 DUTCH KILLS STREET\",\"city\":\"LONG ISLAND CITY\",\"state\":\"NY\",\"zip\":\"11101\"}"
+  }
+}
+, {
+  "buildingid" : "M445",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "SEWARD PARK HS",
+  "projdesc" : "CAFETERIA MULTIPURPOSE RM UPG",
+  "award" : "929000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.98959502962896",
+    "latitude" : "40.716852373698316",
+    "human_address" : "{\"address\":\"350 GRAND STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10002\"}"
+  }
+}
+, {
+  "buildingid" : "K515",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "18",
+  "name" : "SOUTH SHORE HS",
+  "projdesc" : "ROOFS/EXT MASONRY/PARAPETS",
+  "award" : "18887000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91781691770764",
+    "latitude" : "40.63268510415105",
+    "human_address" : "{\"address\":\"6565 FLATLANDS AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11236\"}"
+  }
+}
+, {
+  "buildingid" : "M477",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "STUYVESANT HS (NEW)",
+  "projdesc" : "EXT MASONRY/ROOFS",
+  "award" : "7752000"
+}
+, {
+  "buildingid" : "X240",
+  "consttype" : "CAP",
+  "boro" : "X",
+  "geo_dist" : "78",
+  "name" : "Settlement Housing PS/IS/HS",
+  "projdesc" : "New",
+  "award" : "83300000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.91619367568833",
+    "latitude" : "40.84236125885491",
+    "human_address" : "{\"address\":\"1501 Jerome Ave\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10452\"}"
+  }
+}
+, {
+  "buildingid" : "X988",
+  "consttype" : "CAP",
+  "boro" : "X",
+  "geo_dist" : "78",
+  "name" : "Suspension Center - Bronx",
+  "projdesc" : "Lease",
+  "award" : "7335500",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.89020247936504",
+    "latitude" : "40.81655388322442",
+    "human_address" : "{\"address\":\"1231 Lafayette Ave\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10474\"}"
+  }
+}
+, {
+  "buildingid" : "X410",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "9",
+  "name" : "TAFT HS",
+  "projdesc" : "PLANYC BOILER CONVERSION/PLANYC CLIMATE CTRL",
+  "award" : "10174000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.9108816444482",
+    "latitude" : "40.84038797720987",
+    "human_address" : "{\"address\":\"240 172 STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10457\"}"
+  }
+}
+, {
+  "buildingid" : "K485",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "20",
+  "name" : "TELECOM ARTS & TECHNOLOGY H.S.",
+  "projdesc" : "EXT MASONRY",
+  "award" : "4138000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.02385245520922",
+    "latitude" : "40.63726462862678",
+    "human_address" : "{\"address\":\"350 67TH ST\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11220\"}"
+  }
+}
+, {
+  "buildingid" : "X435",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "THEODORE ROOSEVELT H.S.",
+  "projdesc" : "FLOORS",
+  "award" : "1593000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88817875264016",
+    "latitude" : "40.85990614640288",
+    "human_address" : "{\"address\":\"500 FORDHAM ROAD\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10458\"}"
+  }
+}
+, {
+  "buildingid" : "X435",
+  "consttype" : "CIP",
+  "boro" : "X",
+  "geo_dist" : "10",
+  "name" : "THEODORE ROOSEVELT H.S.",
+  "projdesc" : "SWB - COPPER SIDING",
+  "award" : "1500000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.88817875264016",
+    "latitude" : "40.85990614640288",
+    "human_address" : "{\"address\":\"500 FORDHAM ROAD\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10458\"}"
+  }
+}
+, {
+  "buildingid" : "R455",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "TOTTENVILLE H.S.",
+  "projdesc" : "FY10 RESO A AF REPLACEMENT",
+  "award" : "1452882",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.19217697672369",
+    "latitude" : "40.52826198723337",
+    "human_address" : "{\"address\":\"100 LUTEN AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10312\"}"
+  }
+}
+, {
+  "buildingid" : "R455",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "TOTTENVILLE HS",
+  "projdesc" : "WINDOWS",
+  "award" : "7960000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.19217697672369",
+    "latitude" : "40.52826198723337",
+    "human_address" : "{\"address\":\"100 LUTEN AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10312\"}"
+  }
+}
+, {
+  "buildingid" : "M971",
+  "consttype" : "CAP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "The Spruce Street Educational",
+  "projdesc" : "New",
+  "award" : "34146385.86",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.00596371272646",
+    "latitude" : "40.71174136432668",
+    "human_address" : "{\"address\":\"12 Spruce St\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10038\"}"
+  }
+}
+, {
+  "buildingid" : "M445",
+  "consttype" : "CIP",
+  "boro" : "M",
+  "geo_dist" : "2",
+  "name" : "URBAN ASSEMBLY ACADEMY",
+  "projdesc" : "GIRLS SHOWER ROOM",
+  "award" : "1014300",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.98959502962896",
+    "latitude" : "40.716852373698316",
+    "human_address" : "{\"address\":\"350 GRAND STREET\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10002\"}"
+  }
+}
+, {
+  "buildingid" : "R460",
+  "consttype" : "CIP",
+  "boro" : "R",
+  "geo_dist" : "31",
+  "name" : "WAGNER HS",
+  "projdesc" : "FY06 RESO A ATHLETIC FIELD",
+  "award" : "5799000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-74.12366587081469",
+    "latitude" : "40.59771088831585",
+    "human_address" : "{\"address\":\"1200 MANOR ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10314\"}"
+  }
+}
+, {
+  "buildingid" : "K805",
+  "consttype" : "CIP",
+  "boro" : "K",
+  "geo_dist" : "13",
+  "name" : "WATER'S EDGE EDUCATIONAL COMPL",
+  "projdesc" : "ELEVATOR UPGRADE",
+  "award" : "764398",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.98496543482732",
+    "latitude" : "40.69721149151847",
+    "human_address" : "{\"address\":\"49 FLATBUSH AVE EXTENSION\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11201\"}"
+  }
+}
+, {
+  "buildingid" : "Q680",
+  "consttype" : "CIP",
+  "boro" : "Q",
+  "geo_dist" : "28",
+  "name" : "YOUNG WOMENS' LEADERSHIP SCHOO",
+  "projdesc" : "IP SURVEILLANCE CAMERAS",
+  "award" : "1047000",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "-73.7875740339145",
+    "latitude" : "40.698104881734935",
+    "human_address" : "{\"address\":\"150 91 87TH ROAD\",\"city\":\"JAMAICA\",\"state\":\"NY\",\"zip\":\"11433\"}"
+  }
+}
+ ]

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+
+<!-- This code follows this tutorial http://jrue.github.io/coding/2014/exercises/basicbarchart/ -->
+<html>
+<head>
+    <script type="text/javascript" src="http://mbostock.github.com/d3/d3.js"></script>
+    <style type="text/css">
+
+      .axis text{
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        text-anchor: end;
+      }
+      .axis path{
+        fill:none;
+        stroke:black;
+        stroke-width: 0.5px;
+        shape-rendering: crispEdges;
+      }
+      .bar{
+          stroke: none;
+          fill: teal;
+      }
+      .textlabel{
+          font-family: Helvetica, Arial, sans-serif;
+          font-size:14px;
+          text-anchor: middle;
+      }
+    </style>
+</head>
+<body>
+
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script>
+
+
+      //your d3 code will go here
+  var margin = {top:50, right:0, bottom:20, left:100}
+    width  = 800,
+    height = 400;
+
+    var svg = d3.select("body")
+        .append("svg")
+        .attr("width", "100%")
+        .attr("height", "100%")
+        .attr("viewBox", "0 0 " + width + " " + height);
+
+    var yScale = d3.scale.linear()
+        .range([height - margin.top - margin.bottom, 0]);
+
+    var xScale = d3.scale.ordinal()
+        .rangeRoundBands([0, width - margin.right - margin.left], .1);
+
+    var xAxis = d3.svg.axis()
+        .scale(xScale)
+        .orient("bottom");
+
+    var yAxis = d3.svg.axis()
+        .scale(yScale)
+        .orient("left")
+        .tickFormat(d3.format("$,"));//...then add this line, a tickFormat for currency
+
+
+    // d3.csv("Projects_in_construction.csv",function(csv) {
+    //   var nested_data = d3.nest()
+    //     .key(function(d) { return d.boro; })
+    //     .rollup(function(d) {
+    //        return d3.sum(d, function(g) {return g.award; });
+    //     }).entries(csv);
+    //     console.log(nested_data)
+    // });
+
+    d3.csv("Projects_in_construction.csv", function(csv){
+
+      var data = d3.nest()
+        .key(function(d) { return d.boro; })
+        .rollup(function(d) {
+           return d3.sum(d, function(g) {return g.award; });
+        }).entries(csv);
+        console.log(data)
+
+        //code in next sections will go here.
+        //
+        // data.map(function(d){
+        //   d["award"] = +d["award"];
+        //   return d;
+        // });
+
+        yScale.domain([0, d3.max(data, function(d){ return d.values })]);
+
+        xScale.domain(data.map(function(d){ return d.key; }));
+
+        // adding labels to top of chart
+        svg.append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+            .selectAll(".textlabel")
+            .data(data)
+            .enter()
+            .append("text")
+            .attr("class", "textlabel")
+            .attr("x", function(d){ return xScale(d.key) + (xScale.rangeBand()/2); })
+            .attr("y", function(d){ return yScale(d.values) - 3; })
+            .text(function(d){ return d3.format("$,")(d3.round(d.values));});
+
+
+        //adding bars to chart
+        svg.append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+            .selectAll(".bar")
+            .data(data)
+            .enter()
+            .append("rect")
+            .attr("class", "bar")
+            .attr("x", function(d){ return xScale(d.key); })
+            .attr("y", function(d){ return yScale(d.values); })
+            .attr("height", function(d){ return height - margin.top - margin.bottom - yScale(d.values); })
+            .attr("width", function(d){ return xScale.rangeBand(); });
+
+        //adding x axis to the bottom of chart
+        svg.append("g")
+            .attr("class", "x axis")
+            .attr("transform", "translate(" + margin.left + "," + (height - margin.bottom) + ")")
+            .call(xAxis);
+
+        //adding y axis to the left side of chart
+          svg.append("g")
+              .attr("class", "y axis")
+              .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+              .call(yAxis);
+
+
+    });
+
+    svg.append("g")
+        .attr("transform", "translate(" + (width/2) + ", 15)")
+        .append("text")
+        .text("Total $ Awarded to School Constuction Projects by Borough")
+        .style({"text-anchor":"middle", "font-family":"Arial", "font-weight":"800"});
+
+
+
+
+  </script>
+</script>
+</body>
+</html>
